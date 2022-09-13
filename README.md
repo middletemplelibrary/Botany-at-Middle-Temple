@@ -192,8 +192,10 @@ Despite the lack of evidence, Donnellan was found guilty of murder and executed.
 \
 In the following videos you can see two of the exhibition pieces. They have been animated to show a legible version of the transcription. Both belong to MS86, R v Donellan, papers that formed part of the trial materials in the 1781 case against Captain John Donellan. 
 
+The first being Anna Boughton's deposition.
 <param ve-video id="Z_fj9AIKWlA">
 
+The second being an account of the complaints of Sir Theodosius Boughton.
 <param ve-video id="9WLtFRz8AH4">
 
 
