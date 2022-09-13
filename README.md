@@ -3,9 +3,7 @@
 <param ve-config 
        title="Botany at Middle Temple"
        author="Middle Temple Library"
-       banner="
-<param ve-compare curtain url="https://user-images.githubusercontent.com/110464039/189939636-86553aec-de8f-490b-889b-556645c49b5f.jpg" label="Bird's nest from above" description="photograph">
-<param ve-compare url="https://user-images.githubusercontent.com/110464039/189939647-3a50a070-678c-460d-a79b-37fd995e59fc.jpg" label="Bird's nest from side" description="photograph">" 
+       banner="" 
        layout="vertical">
       
       
