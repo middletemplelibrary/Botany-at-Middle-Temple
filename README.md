@@ -173,8 +173,19 @@ This reproduction frontispiece shows the interior of Dick’s Coffee-House, whic
 
 ## R v Donnellan
 
-In this ‘cause célèbre’, Captain John Donnellan was tried before Mr. Justice Francis Buller in Warwick in 1781 for the poisoning of his brother-in-law, Sir Theodosius Boughton. Donnellan was married to Boughton’s sister and heir Theodosia. Boughton was a known womaniser, and had been infected with syphilis (i.e., the clap, as shown here), for which he was undergoing treatment from an apothecary, who provided him with a specially made draught. His mother, Anna Boughton, unwittingly administered the poison from a phial purporting to contain this draught. As shown here in her deposition, written in her own hand, the draught smelled like bitter almonds, and she gave him some cheese to get rid of the taste and smell of it. Boughton died soon after drinking the concoction, having gone into severe convulsions. Donnellan rinsed the bottle out before anyone could examine it. A post-mortem was conducted, and the smell of bitter almonds was noted. The celebrated surgeon, John Hunter, also examined the body and stated that the smell was produced by laurel water mixed with the apothecary’s draught. Dr. Hunter did not believe that the victim had been poisoned, however.\
-\
+In this ‘cause célèbre’, Captain John Donnellan was tried before Mr. Justice Francis Buller in Warwick in 1781 for the poisoning of his brother-in-law, Sir Theodosius Boughton. Donnellan was married to Boughton’s sister and heir Theodosia. Boughton was a known womaniser, and had been infected with syphilis (i.e., the clap, as shown here), for which he was undergoing treatment from an apothecary, who provided him with a specially made draught. His mother, Anna Boughton, unwittingly administered the poison from a phial purporting to contain this draught. As shown here in her deposition, written in her own hand, the draught smelled like bitter almonds, and she gave him some cheese to get rid of the taste and smell of it. Boughton died soon after drinking the concoction, having gone into severe convulsions. Donnellan rinsed the bottle out before anyone could examine it. A post-mortem was conducted, and the smell of bitter almonds was noted. The celebrated surgeon, John Hunter, also examined the body and stated that the smell was produced by laurel water mixed with the apothecary’s draught. Dr. Hunter did not believe that the victim had been poisoned, however.
+
+<param ve-image 
+       label="Captain Donnellan" 
+       description="illustration" 
+       url="https://user-images.githubusercontent.com/110464039/189943583-750e6c5a-8235-44a0-91de-e884ae889247.jpg">
+       
+<param ve-image 
+       label="Lawford Hall" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/189936713-ed5ea275-4bb7-4afc-a237-9e8826ba71a5.jpg">
+
+
 Donnellan had a distillation still, and copies of the Philosophical Transactions out of which he had marked pages that explained how to produce laurel water. The pages explained how people in Ireland had died after drinking it. The prosecuting counsel stated in the indictment that he believed Boughton was poisoned with laurel water. Laurel water is made by distilling leaves from cherry laurel (Prunus laurocerasus) and contains hydrocyanic acid.\
 \
 Despite the lack of evidence, Donnellan was found guilty of murder and executed. On the morning of his execution, he admitted to distilling laurel water, but claimed it was for washing his feet. Despite the circumstantial evidence presented at his trial, many believed him innocent of the crime. On display is a sample of cherry laurel taken from the gardens at Middle Temple.\
@@ -184,15 +195,6 @@ In the following videos you can see two of the exhibition pieces. They have been
 <param ve-video id="Z_fj9AIKWlA">
 <param ve-video id="9WLtFRz8AH4">
 
-<param ve-image 
-       label="Lawford Hall" 
-       description="photograph" 
-       url="https://user-images.githubusercontent.com/110464039/189936713-ed5ea275-4bb7-4afc-a237-9e8826ba71a5.jpg">
-
-<param ve-image 
-       label="Captain Donnellan" 
-       description="illustration" 
-       url="https://user-images.githubusercontent.com/110464039/189943583-750e6c5a-8235-44a0-91de-e884ae889247.jpg">
 
 ## Philosophical Transactions 
 
