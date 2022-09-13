@@ -294,3 +294,26 @@ Fireweed appears abundantly on newly burned and cleared areas, which lead to it 
 This book is in desperate need of repair. If you would like to sponsor the cost of that repair, please contact the Librarian: r.satterley@middletemple.org.uk. 
 On display here are specimens sourced by the gardener, Kate Jenrick: bistort, fireweed, and Asteraceae (daisy). 
 
+<param ve-image 
+       label="De la Natvre 1628" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/189930125-d0fb18a1-4902-4b71-ab66-b32e42337217.JPG">  
+       
+       
+Plants and wildlife at the Inn (present day)
+
+Kate Jenrick, Gardener
+The gardens at Middle Temple have provided the Inn with a variety of purposes through the years – from providing food with a kitchen garden, growing herbs, allotments during World War II, and a floral display for enjoyment today. They have also provided a haven for wildlife in the midst of a metropolis, and their value is reflected in the City of London’s awarding it a Grade Two listing of Borough Importance for Nature Conservation.\
+\
+The Black redstart is a small bird (something between a robin and a small blackbird) with a special link to the Temple. Before the 1940s it was a rare passing migrant in this country. In 1944 one of just three breeding pairs was recorded (and photographed) at Temple. The Black redstart is still rare throughout the country. To help ensure its survival it is a listed target species in the City of London Biodiversity plan.\
+\
+There are good populations of robins, wrens, blackbirds and various blue and great tits. From time to time a kestrel can be seen poised on a hall ledge watching for prey (usually field mice). Peregrine falcons can also be seen hunting. They are known to have roosts in nearby tall buildings such as the Tate Modern. 
+The images of seventeenth and eighteenth-century frost fairs on the Thames facing the Temple are hard to imagine today – roses are often still budding and flowering in early December. It is only January and February when they are reliably dormant. Leaf fall now starts earlier as the trees shed leaves in response to stress (drought and disease), but final leaf fall may well last many months as temperatures remain too high to support full senescence. Extremes in weather conditions are most stark in the spring, such as the very cool and dry conditions experienced in 2012 and 2022, and the “Beast from the East” cold wave of March 2018. It is a journey of discovery learning which plants can cope with this unpredictability.\
+\
+Warmer conditions present other problems, such as the introduction of new pests. The fuchsia gall mite (originally from Brazil) is able to survive our newly milder winters. It distorts foliage and stunts growth. This is a good example where consideration of wildlife wins over choice of a particular plant. Application of pesticide could save the fuchsia but at a cost to a host of beneficial insects.\
+
+Scan the QR code for a link to a recording of a black redstart taken at Queen Elizabeth Park, Stratford. 
+
+![image info](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png
+
+)https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png
