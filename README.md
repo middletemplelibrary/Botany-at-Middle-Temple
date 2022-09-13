@@ -333,9 +333,16 @@ Photograph of storm damage in Middle Temple Garden (MT/19/PHO/10/17/15), taken a
 
 Photographs of snow in the garden and Fountain Court, taken in 2012 and 2018 respectively, by Renae Satterley, Librarian.\
 
-<param ve-compare curtain url="https://user-images.githubusercontent.com/110464039/189939123-bbe36c8f-e381-4b18-89dc-0d235626a01d.JPG" label="Snowy Garden 2012" description="photograph">
-<param ve-compare url="https://user-images.githubusercontent.com/110464039/189939145-3c5c21d9-d5fe-4067-b3d1-b32915381148.jpg" label="Snowy Garden 2018" description="photograph">
-
+<param ve-image 
+       label="Snowy Garden 2012" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/189939123-bbe36c8f-e381-4b18-89dc-0d235626a01d.JPG">
+       
+<param ve-image 
+       label="Snowy Garden 2018" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/189939145-3c5c21d9-d5fe-4067-b3d1-b32915381148.jpg">
+       
 
 A bird’s nest, possibly a blue tit’s, found by Kate Jenrick spring 2022. When found on the ground this nest was such a new creation that blue flowers of forget-me-nots were clearly identifiable. The soft yellow base is made from seeds of plane trees.
 
