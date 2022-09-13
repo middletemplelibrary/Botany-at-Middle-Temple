@@ -181,6 +181,7 @@ In the following videos you can see two of the exhibition pieces. They have been
 <param ve-video id="9WLtFRz8AH4">
 
 ## Philosophical Transactions 
+
 This abridgment volume of the Philosophical Transactions has a reprint of an article first published 30 September 1731. The article, ‘Laurel Water a dangerous poison’, was written by T. Madden, M.D. and describes how people in Ireland died from drinking laurel water, mistakenly believing it to be a harmless cordial. Mary Whaley and Anne Boyle were poisoned in Dublin in September 1728, and Mr. Evans in Kilkenny in 1735. The author, who examined Mary Whaley after her death, then proceeded to experiment with the poisonous substance, using dogs as his unfortunate test subjects, all of which died after being given his laurel water concoction. This is likely the article from the Transactions that was referred to in John Donnellan’s trial.\
 \
 Follow this link for a reprint of the original article: https://royalsocietypublishing.org/doi/epdf/10.1098/rstl.1731.0017
@@ -190,5 +191,106 @@ Follow this link for a reprint of the original article: https://royalsocietypubl
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/189891874-cb801c75-c979-4015-93c0-76f7becad351.JPG">
        
+
+## Mythology of plants
+
+The lore and mythology of plants has a long and interesting history, from Demeter, the Greek goddess of harvest and fertile soil, to the use of mandrake roots in magic rituals. There are many legendary plants, such as the Irrwurz (or herbe d’égarement), the lotus tree, the coco de mer, fern flowers, and peaches of immortality amongst many others. 
+Trees in particular have magical, or mythical properties for many people. The yew tree can regenerate (or resurrect) itself, and as such is often found in churchyards and cemeteries. According to the Horniman Museum, during plague times, people believed it could purify victims when placed on their graves. Sage, or salvia (‘to heal’), was treated as a holy herb by the Romans, and wild sage (pechuel-loeschea leubnitziae) is used as a ‘folk remedy’ to treat various ailments, and ward off mosquitoes in Southern African countries.
+Plants also have complicated symbologies attached to them, which vary by region, as determined by an area’s unique characteristics. According to Kew Gardens, many of the UK’s wildflowers have mythological associations, such as the association between poppies and Demeter; the ability of St. John’s wort, the sun herb, to ward off the evil of the dark; and the use of wild marjoram in wedding crowns, as it was a favourite herb of Aphrodite, the Greek goddess of love, beauty, and fertility.  
+
+<param ve-image 
+       label="Commentarii secundo aucti, in libros sex Pedacii Dioscoridis Anazarbei de medica materia by Pietro Andrea Mattioli, 1560 via https://bibdigital.rjb.csic.es/idurl/1/13527" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/189896357-df713820-ad97-42e0-bd9a-f345378ff056.jpg">
+
        
+       
+## Giambattista della Porta, Phytognomonica, 1588
+
+Della Porta was an Italian polymath who believed that similar visual characteristics linked plants and animals to humans, and that these similarities provided potential healing powers. This curious book outlines this theory – that certain plants had parallels with human and animal shapes, and humours, because they were visually similar. In this illustration he shows plants which resemble eyes, and thus could be used to heal eye ailments. They are, from right to left: asteris, aconiti and aizoi (Aster amellus, Aconitum, and Sempervivum, respectively). Aconitum is also a poison, more commonly known as monkshood or wolfsbane (see: R v Singh [2010] EWCA Crim 2951).\
+\
+Accompanying this book are specimens from the gardens at Middle Temple: Michaelmas daisy (Aster amellus) and Aeonium, which looks similar to Sempervivum. 
+
+<param ve-image 
+       label="Giambattista della Porta, Phytognomonica, 1588" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/189893420-fb05aeee-99c4-419b-ba75-cae4c7d8a6b4.JPG">
+       
+## Claude Duret, Histoire admirable des plantes et herbes esmerveillables & miraculeuses en nature, 1605 
+
+Claude Duret (1527-1611) was judge, mayor, and botanist. This book, with its woodcut illustrations, outlines ‘miraculous’ and wonderful plants, plant lore and plant mythology. Duret discusses various plants and marine animals used for creating dyes, and claims that a tree common in Scotland had leaves that, when they fell in the water, transformed into fish, and when on land, into birds. The book is open to display the woodcut illustration of ‘ilex aquifolia’, or holly. While holly berries are mildly poisonous to humans, birds love to eat them. Holly has of course been traditionally used in Christmas decorations, as a representation of Christ’s thorns.
+
+<param ve-image 
+       label="Claude Duret, Histoire admirable des plantes et herbes esmerveillables miraculeuses en nature, 1605" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/189893634-b8f8740c-4705-4131-b860-3cbe4c08ac4f.JPG">
+       
+       
+## Royal Society of London, Philosophical Transactions, volume 49 (1755-1756) 
+
+This plate depicts a skin condition called ichthyosis vulgaris, contrasted against a stem with berries from the common service tree (Sorbus torminalis). The boy depicted was the son of Edward Lambert, the 'porcupine man'. Lambert and his children had a severe form of ichthyosis hystrix, where massive hyperkeratosis (skin thickening) led to the entire body (excluding the face, palms, soles, and genitals) being covered in wart-like cylindrical growths. The condition is often also described as ‘fish-scale skin’, and there is no known cure for it. 
+
+<param ve-image 
+       label="Philosphical Transactions vol 49 p21" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/189893830-c811065a-ff90-4ae4-82be-3a1177809152.jpg">
+       
+
+## Levinus Lemnius, Similitudinum ac parabolarum quae in Bibliis ex herbis, 1581
+
+This work by the Dutch physician, who studied under Rembert Dodoens, Conrad Gessner, and Andreas Vesalius, discusses symbolism in the Bible, and the plants and trees that appear in the Bible’s parables and metaphors. It shows Lemnius’ portrait on the title page, with Robert Ashley’s signature. The book went through many editions and was republished up until at least 1772. 
+
+<param ve-image 
+       label="Levinus Lemnius, Similitudinum ac parabolarum quae in Bibliis ex herbis, 1581" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/189894076-730cdd10-d00f-4fd7-bca1-d2152ca835d8.JPG">
+       
+
+## Plants at Middle Temple (historic)
+
+Plants have always played an important part at the Inn, from their presence in the garden, to their use in the kitchen garden that existed here in the seventeenth-century, and the number of books about botany in the library’s collections. The Inn acquired books on botanical subjects well into the nineteenth-century. There was also a concerted effort to acquire a wide range of topographical books for the Library, many of which discussed the natural history of areas such as Boston, Cornwall, and Oxfordshire amongst others. The Library also acquired over twenty volumes of the Royal Society’s Philosophical Transactions in the eighteenth-century.\
+\
+Although there is no evidence that John Evelyn (1620-1706), founding member of the Royal Society, had any input into the Inn’s gardens, he was a member of the Inn (admitted 1637). Evelyn was a prolific author on botanical subjects. In 1664 he published Sylva, in which he argued for the conservation of English forests and provided practical information on tree cultivation; it went through many editions, up to 1776. He also wrote Acetaria, a work on salads and vegetables, and a gardener’s almanac, Kalendarium hortense. He additionally translated Jean de la Quintinie’s work on fruit and kitchen gardens from French into English as The compleat gard’ner. 
+
+<param ve-image 
+       label="A portrait of John Evelyn in his younger days, from the Archive (MT/19/POR/263). This engraving dates to 1650 and the artist was Robert Nanteuil (1623?-1678)" 
+       description="illustration" 
+       url="https://user-images.githubusercontent.com/110464039/189894890-16dabc31-d79a-4b77-a329-21508d3c72e3.png">
+
+## Bills from the Archive (MT/2/TUT/54, and 64)
+
+1723-1724: gardener’s bill listing, amongst other items: halfe a hundred of tulip rootes; sweet margerum seed and flock gelleflour seed; 2 wallflowers; 18 passion rifle roots.\
+\
+1817: 4 rose trees, geraniums, 6 pots of pinks, 4 pots of peas, carnations, Canterbury bells.\
+\
+Victoria Hildreth, Assistant Archivist: “There are references to a kitchen garden in the Minutes of Parliament dated 24 November 1609 and in bills from the late 1610s, which would have grown vegetables and herbs for culinary and medicinal use at the Inn. The minutes of 1609 reference a reduction in the size of the garden as it granted permission for Francis Warnett and John Puleston, members of the Society, to build a new set of chambers in the kitchen garden and this permission may have been granted due to a wider availability of produce in local markets than in earlier centuries. An estimated location of the garden can be ascertained by looking at the location of the newly built chamber, which was on Middle Temple Lane, and by the fact that it was ‘from the corner of the chamber of Mr Overbury northward towards the brick wall dividing the kitchen garden from the Town Buildings’”.\
+\
+On display here are dried specimens from the gardens at Middle Temple: rose, sweet peas, and geraniums. 
+
+
+## Ralph Austen, Observations upon some part of Sr Francis Bacon's Naturall history as it concernes fruit-trees, fruits, and flowers, 1658 
+
+Ralph Austen (d. 1676) was a writer on gardening, and in this work, he outlined his observations on fruit trees. Austen was associated with Samuel Hartlib, and efforts by the ‘Hartlib Circle’ to improve horticultural practices in England. It is bound in a volume of tracts containing a work by Hartlib, and other works on natural philosophy. It originally belonged to William Petyt (1636-1707), who donated books and tracts to Middle Temple Library in 1698.
+
+<param ve-image 
+       label="Ralph Austen, Observations upon some part of Sr Francis Bacon's Naturall history as it concernes fruit-trees, fruits, and flowers, 1658" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/189897006-4a9787cb-a015-4a53-823d-30a1111c093f.JPG">    
+       
+
+## Arthur Standish, The commons complaint, 1611
+
+This tract discusses how to improve food supplies and decries the destruction and waste of woods and forests in England. Very little is known about Standish, including his birth and death dates. Some have suggested that he was involved in the seventeenth-century Crown surveys. He was an early proponent of hedgerows, and viewed woodlands as complementary to farmland, not a competitor to it. 
+
+<param ve-image 
+       label="Arthur Standish, The commons complaint, 1611" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/189897311-9c1dc0b8-bc6f-4388-b879-c50d4642fd47.JPG">  
+       
+## Robert Ashley
+
+The Library’s founder, Robert Ashley (1565-1641) was very interested in botany, including medical botany. In his copy of Guy de la Brosse, De la nature, vertu et utilité des plantes (1628), he wrote out this list of plants of interest – ‘bistorte’ (bistort, or pudding dock, (Bistorta officinalis), ‘chamenerion’ (fireweed, Chamaenerion angustifolium), ‘poussepieds’ (samphire), and ‘yeux de bœufs’ (Asteraceae) amongst others. Bistort is used for digestion problems, and chamenerion is known as ‘bombweed’, or ‘fireweed’. In addition to its discussion of medical botany, de la Brosse wrote about the Jardin du roi (now known as the Jardin des plantes) in Paris. The garden was used for medical training, and de la Brosse’s original intention was to build a physic garden.
+Fireweed appears abundantly on newly burned and cleared areas, which lead to it being known as ‘bombweed’ in the UK, as it easily colonised areas that had been bombed and cleared in WWII.  
+This book is in desperate need of repair. If you would like to sponsor the cost of that repair, please contact the Librarian: r.satterley@middletemple.org.uk. 
+On display here are specimens sourced by the gardener, Kate Jenrick: bistort, fireweed, and Asteraceae (daisy). 
 
