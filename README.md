@@ -190,8 +190,8 @@ Donnellan had a distillation still, and copies of the Philosophical Transactions
 \
 Despite the lack of evidence, Donnellan was found guilty of murder and executed. On the morning of his execution, he admitted to distilling laurel water, but claimed it was for washing his feet. Despite the circumstantial evidence presented at his trial, many believed him innocent of the crime. On display is a sample of cherry laurel taken from the gardens at Middle Temple.\
 \
-In the following videos you can see two of the exhibition pieces. They have been animated to show a legible version of the transcription. Both belong to MS86, R v Donellan, papers that formed part of the trial materials in the 1781 case against Captain John Donellan. 
-
+In the following videos you can see two of the exhibition pieces. They have been animated to show a legible version of the transcription. Both belong to MS86, R v Donellan, papers that formed part of the trial materials in the 1781 case against Captain John Donellan.\
+\
 The first being Anna Boughton's deposition.
 <param ve-video id="Z_fj9AIKWlA">
 
