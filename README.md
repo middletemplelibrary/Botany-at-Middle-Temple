@@ -311,9 +311,9 @@ There are good populations of robins, wrens, blackbirds and various blue and gre
 The images of seventeenth and eighteenth-century frost fairs on the Thames facing the Temple are hard to imagine today – roses are often still budding and flowering in early December. It is only January and February when they are reliably dormant. Leaf fall now starts earlier as the trees shed leaves in response to stress (drought and disease), but final leaf fall may well last many months as temperatures remain too high to support full senescence. Extremes in weather conditions are most stark in the spring, such as the very cool and dry conditions experienced in 2012 and 2022, and the “Beast from the East” cold wave of March 2018. It is a journey of discovery learning which plants can cope with this unpredictability.\
 \
 Warmer conditions present other problems, such as the introduction of new pests. The fuchsia gall mite (originally from Brazil) is able to survive our newly milder winters. It distorts foliage and stunts growth. This is a good example where consideration of wildlife wins over choice of a particular plant. Application of pesticide could save the fuchsia but at a cost to a host of beneficial insects.\
-
+\
 Scan the QR code for a link to a recording of a black redstart taken at Queen Elizabeth Park, Stratford. 
 
-![image info](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png
+![image info](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
 
-)https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png
+https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png
