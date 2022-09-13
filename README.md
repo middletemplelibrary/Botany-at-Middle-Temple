@@ -326,17 +326,18 @@ Warmer conditions present other problems, such as the introduction of new pests.
 
 ## Middle Temple Gardens
 
-Photograph of storm damage in Middle Temple Garden (MT/19/PHO/10/17/15), taken after the 1987 storm which took down London plane trees (Platanus x hispanica) at the embankment end of the garden. This photograph shows the ripped-up root of the tree looking north towards Hall and the Library. London plane trees are a hybrid of American sycamore and Oriental plane trees.\
-\
+Photograph of storm damage in Middle Temple Garden (MT/19/PHO/10/17/15), taken after the 1987 storm which took down London plane trees (Platanus x hispanica) at the embankment end of the garden. This photograph shows the ripped-up root of the tree looking north towards Hall and the Library. London plane trees are a hybrid of American sycamore and Oriental plane trees.
+
+
+
+
 Photographs of snow in the garden and Fountain Court, taken in 2012 and 2018 respectively, by Renae Satterley, Librarian.\
-\
-A bird’s nest, possibly a blue tit’s, found by Kate Jenrick spring 2022. When found on the ground this nest was such a new creation that blue flowers of forget-me-nots were clearly identifiable. The soft yellow base is made from seeds of plane trees.
-
-
 
 <param ve-compare curtain url="https://user-images.githubusercontent.com/110464039/189939123-bbe36c8f-e381-4b18-89dc-0d235626a01d.JPG" label="Snowy Garden 2012" description="photograph">
 <param ve-compare url="https://user-images.githubusercontent.com/110464039/189939145-3c5c21d9-d5fe-4067-b3d1-b32915381148.jpg" label="Snowy Garden 2018" description="photograph">
 
+
+A bird’s nest, possibly a blue tit’s, found by Kate Jenrick spring 2022. When found on the ground this nest was such a new creation that blue flowers of forget-me-nots were clearly identifiable. The soft yellow base is made from seeds of plane trees.
 
 <param ve-compare curtain url="https://user-images.githubusercontent.com/110464039/189939636-86553aec-de8f-490b-889b-556645c49b5f.jpg" label="Bird's nest from above" description="photograph">
 <param ve-compare url="https://user-images.githubusercontent.com/110464039/189939647-3a50a070-678c-460d-a79b-37fd995e59fc.jpg" label="Bird's nest from side" description="photograph">
