@@ -312,9 +312,13 @@ The images of seventeenth and eighteenth-century frost fairs on the Thames facin
 \
 Warmer conditions present other problems, such as the introduction of new pests. The fuchsia gall mite (originally from Brazil) is able to survive our newly milder winters. It distorts foliage and stunts growth. This is a good example where consideration of wildlife wins over choice of a particular plant. Application of pesticide could save the fuchsia but at a cost to a host of beneficial insects.\
 \
-Scan the QR code for a link to a recording of a black redstart taken at Queen Elizabeth Park, Stratford. 
+[Click this link for a recording of a black redstart taken at Queen Elizabeth Park, Stratford.](https://markavery.info/2020/04/12/bird-song-22-black-redstart/)
 
-[image](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
+![image](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
+
+<param ve-image 
+       label="Middle Temple Gardens" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/189932633-395919f4-b88d-4b0a-8530-975986c4ecc1.png"> 
 
 
-![image](https://user-images.githubusercontent.com/110464039/189932633-395919f4-b88d-4b0a-8530-975986c4ecc1.png)
