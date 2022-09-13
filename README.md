@@ -3,7 +3,7 @@
 <param ve-config 
        title="Botany at Middle Temple"
        author="Middle Temple Library"
-       banner="" 
+       banner="https://user-images.githubusercontent.com/110464039/189877820-524860aa-d2d5-41e0-9173-cafc6c8e9e05.JPG" 
        layout="vertical">
       
       
