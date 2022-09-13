@@ -98,8 +98,7 @@ Mondardes (1493-1588) was a Spanish physician who published prolifically on medi
 
 Alpini’s ground-breaking study of the Egyptian flora – the first of its kind in Europe – illustrates the problems of marrying new discoveries to the received wisdom of the classical authorities in the early-modern period. Alpini’s attempt to match new species to those described in antiquity was destined for failure, but his precise descriptions – based on specimens he had personally examined – nonetheless provided a useful corrective to the rumours and fables associated with exotic ‘oriental’ plants. His treatise includes the first appearance in print of several now-famous species, including the banana, baobab, and Arabic coffee plants. The woodcut illustration is of the tamarind tree, Tamarindus indica.\ 
 \
-Allison Fulton, Amara Santiesteban Serrano, and Jeannette Schollaert have written about tamarind at the Plant Humanities Lab site.\ 
-https://lab.plant-humanities.org/tamarind/
+[Allison Fulton, Amara Santiesteban Serrano, and Jeannette Schollaert have written about tamarind at the Plant Humanities Lab site.](https://lab.plant-humanities.org/tamarind/)
 
 <param ve-image 
        label="Prospero Alpini, De plantis Aegypti liber, 1592" 
@@ -111,7 +110,7 @@ https://lab.plant-humanities.org/tamarind/
 Plants are well represented in the legal world. Legal cases include those on plant theft, the illegal importation of protected species, murder trials involving the use of poisonous plants, ‘sting’ operations on cannabis growers, and the protection of patented genes in plants. There is also a variety of legislation regulating plants and seeds, including the Plant Varieties Act 1997. Additionally, there is a Plant Varieties & Seeds Tribunal that “makes decisions about national listing of new varieties of plants, UK plant variety rights and certain forestry matters”. The Tribunal has been dormant since 1984 as there have been other regulations and methods to resolve the relevant disputes, however.\ 
 Certain plant species must be registered on the Great Britain and Northern Ireland Variety Lists. The Controller of Plant Variety Rights keeps a “register of the names of plant varieties in respect of which plant breeders' rights have been granted … and keeps records of plant varieties for which applications for grants of rights are under consideration and for which rights have been granted”.\
 Forensic botany, or plant forensics, is a branch of botany that analyses plants and fungi in criminal investigations. Such analysis helps investigators link plant evidence with a crime, “such as placing a suspect at a crime scene through analysis of pollen or seed particles found on their clothing” (Katie Avis-Riordan, Kew Gardens). Plant forensics can also be used to help save someone who has been poisoned, by identifying which plant/toxin has been used, and thus also identifying a potential antidote.\
-Follow this link to listen to a podcast from Kew Gardens on this fascinating topic: https://www.kew.org/about-us/virtual-kew-wakehurst/unearthed-kew-podcast\ 
+[Follow this link to listen to a podcast from Kew Gardens on this fascinating topic.](https://www.kew.org/about-us/virtual-kew-wakehurst/unearthed-kew-podcast\) 
 
 ## Plants in case law
 
@@ -146,7 +145,7 @@ Accompanying this book are dried specimens from the gardens at Middle Temple: ol
 
 Donnall was charged with murdering his mother-in-law, Elizabeth Downing. Donnall was accused of serving her a cup of cocoa laced with arsenic. Robert Casberd (1772-1842), a Bencher of the Inn, was one of the prosecuting counsel, and claimed that Donnall had twice poisoned Elizabeth Downing – once on the 19th of October 1816, and the second the day before her death, the 3rd of November, 1816. An autopsy was performed by a Dr. Edwards and Mr. John Street, with Donnall present. Edwards and Street had poured the contents of her stomach into an earthen jug which Donnall, without their knowledge, emptied into a “chamber utensil”, that is, a chamber pot in which there was already some water, thus diluting the contents. Edwards testified that the stomach inflammation he observed in her stomach “could not be produced by any natural cause”. Edwards tested the stomach contents, which showed the presence of arsenic. However, Donnall was acquitted; a maid, Mary Coombe, testified that she drank the remaining cocoa left in Mrs. Downing’s cup.\ 
 \
-Shown here is a diagram of the Donnall’s parlour (‘plan of the tea-room’), and the route Donnall took to serve Mrs. Downing her cocoa; the plan was exhibited in court. Drinking cocoa is of course made from cocoa beans. According to English Heritage, it was made by mixing cocoa powder, water or milk, sugar, and egg yolks.\ Follow this link for a digital version of the trial account: https://archive.org/details/b20443559/page/n3/mode/2up 
+Shown here is a diagram of the Donnall’s parlour (‘plan of the tea-room’), and the route Donnall took to serve Mrs. Downing her cocoa; the plan was exhibited in court. Drinking cocoa is of course made from cocoa beans. According to English Heritage, it was made by mixing cocoa powder, water or milk, sugar, and egg yolks.\ [Follow this link for a digital version of the trial account.](https://archive.org/details/b20443559/page/n3/mode/2up) 
 
 
 ## MS146, Records of The Society of the Bears
@@ -155,14 +154,14 @@ A set of five manuscript records was deposited in the Library on 9 June, 1826. T
 \
 Coffee houses were popular social venues in the seventeenth and eighteenth centuries, attracting men (and sometimes women) from all levels of society. Although known to earlier travellers, coffee as a drink was introduced to England from Turkey in 1652. Coffee is produced by brewing the dried, roasted seeds of the berries of Coffea plants. Coffee was believed to cure headaches, gout, and some skin conditions. Sir Nicholas Lawes introduced coffee to Jamaica in 1728, but its cultivation and profitability relied on the exploitation of slave labour. At the time of his death in 1731, he owned 478 slaves. Lawes’ son Temple is named in one of the draft deeds listed in the Library’s eighteenth-century manuscript of conveyancing precedents, MS37.\
 \
-Follow this link to access a transcription of all five volumes of the Records, and a list of the Society’s members: middletemple.org.uk/library/library-collections/rare-books-manuscripts/manuscripts-collection/society-bears
+[Follow this link to access a transcription of all five volumes of the Records, and a list of the Society’s members.](middletemple.org.uk/library/library-collections/rare-books-manuscripts/manuscripts-collection/society-bears)
 
 ## The coffee-house
 James Miller’s The coffee-house, 1737, and a view of the back of Dick’s Coffee-House from Hare Court (MT/19/ILL/E/E5/1)\
 This reproduction frontispiece shows the interior of Dick’s Coffee-House, which was located at no.8, Fleet Street (south side, near to the Temple Bar). The play had an unfavourable depiction of the landlady (Mrs. Yarrow) and her daughter, who were the “reigning toasts of the Templars”, the coffee-house’s main customers. The barristers successfully managed to scupper the opening night production in the Yarrows’ defence. The play begins with lines that will be familiar to any student of the law: “Hah! My dear Templer, well met: Why so pensive pr’ythee? What, just come from nodding over Coke upon Littleton?” According to John Timbs, the location of Dick’s Coffee-House was (partially) the original site of Richard Tottel’s printing house, and in the nineteenth century was occupied by Butterworths. This nineteenth-century print shows a view of the back of the establishment, as seen from Hare Court.
 
 <param ve-image 
-       label="James Miller’s The coffee-house, 1737, and a view of the back of Dick’s Coffee-House from Hare Court" 
+       label="James Miller’s The coffee-house, 1737, and a view of the back of Dick’s Coffee-House from Hare Court. Ⓒ Trustees of the British Museum." 
        description="illustration" 
        url="https://user-images.githubusercontent.com/110464039/189888973-d86fcd54-815a-4bb6-8414-c04ce00395c7.jpg">
        
@@ -179,6 +178,12 @@ In the following videos you can see two of the exhibition pieces. They have been
 
 <param ve-video id="Z_fj9AIKWlA">
 <param ve-video id="9WLtFRz8AH4">
+
+<param ve-image 
+       label="Lawford Hall" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/189936713-ed5ea275-4bb7-4afc-a237-9e8826ba71a5.jpg">
+
 
 ## Philosophical Transactions 
 
@@ -300,7 +305,7 @@ On display here are specimens sourced by the gardener, Kate Jenrick: bistort, fi
        url="https://user-images.githubusercontent.com/110464039/189930125-d0fb18a1-4902-4b71-ab66-b32e42337217.JPG">  
        
        
-Plants and wildlife at the Inn (present day)
+## Plants and wildlife at the Inn (present day)
 
 Kate Jenrick, Gardener
 The gardens at Middle Temple have provided the Inn with a variety of purposes through the years – from providing food with a kitchen garden, growing herbs, allotments during World War II, and a floral display for enjoyment today. They have also provided a haven for wildlife in the midst of a metropolis, and their value is reflected in the City of London’s awarding it a Grade Two listing of Borough Importance for Nature Conservation.\
@@ -312,13 +317,27 @@ The images of seventeenth and eighteenth-century frost fairs on the Thames facin
 \
 Warmer conditions present other problems, such as the introduction of new pests. The fuchsia gall mite (originally from Brazil) is able to survive our newly milder winters. It distorts foliage and stunts growth. This is a good example where consideration of wildlife wins over choice of a particular plant. Application of pesticide could save the fuchsia but at a cost to a host of beneficial insects.\
 \
-[Click this link for a recording of a black redstart taken at Queen Elizabeth Park, Stratford.](https://markavery.info/2020/04/12/bird-song-22-black-redstart/)
-
-![image](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
+[Follow this link for a recording of a black redstart taken at Queen Elizabeth Park, Stratford.](https://markavery.info/2020/04/12/bird-song-22-black-redstart/)
 
 <param ve-image 
        label="Middle Temple Gardens" 
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/189932633-395919f4-b88d-4b0a-8530-975986c4ecc1.png"> 
 
+## Middle Temple Gardens
+
+Photograph of storm damage in Middle Temple Garden (MT/19/PHO/10/17/15), taken after the 1987 storm which took down London plane trees (Platanus x hispanica) at the embankment end of the garden. This photograph shows the ripped-up root of the tree looking north towards Hall and the Library. London plane trees are a hybrid of American sycamore and Oriental plane trees.\
+\
+Photographs of snow in the garden and Fountain Court, taken in 2012 and 2018 respectively, by Renae Satterley, Librarian.\
+\
+A bird’s nest, possibly a blue tit’s, found by Kate Jenrick spring 2022. When found on the ground this nest was such a new creation that blue flowers of forget-me-nots were clearly identifiable. The soft yellow base is made from seeds of plane trees.
+
+
+
+<param ve-compare curtain url="https://user-images.githubusercontent.com/110464039/189939123-bbe36c8f-e381-4b18-89dc-0d235626a01d.JPG" label="Snowy Garden 2012" description="photograph">
+<param ve-compare url="https://user-images.githubusercontent.com/110464039/189939145-3c5c21d9-d5fe-4067-b3d1-b32915381148.jpg" label="Snowy Garden 2018" description="photograph">
+
+
+<param ve-compare curtain url="https://user-images.githubusercontent.com/110464039/189939636-86553aec-de8f-490b-889b-556645c49b5f.jpg" label="Bird's nest from above" description="photograph">
+<param ve-compare url="https://user-images.githubusercontent.com/110464039/189939647-3a50a070-678c-460d-a79b-37fd995e59fc.jpg" label="Bird's nest from side" description="photograph">
 
