@@ -331,7 +331,7 @@ Photograph of storm damage in Middle Temple Garden (MT/19/PHO/10/17/15), taken a
 
 
 
-Photographs of snow in the garden and Fountain Court, taken in 2012 and 2018 respectively, by Renae Satterley, Librarian.\
+Photographs of snow in the garden and Fountain Court, taken in 2012 and 2018 respectively, by Renae Satterley, Librarian.
 
 <param ve-image 
        label="Snowy Garden 2012" 
