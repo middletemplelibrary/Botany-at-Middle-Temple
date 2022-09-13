@@ -25,6 +25,6 @@ This exhibition links materials from the Inn’s Archives, Rare Books, and Manus
 Like many early-modern botanists, Joachim Camerarius the Younger (1534-1598) was chiefly employed as a physician, pursuing a private medical practice in Nuremberg where he later became Dean of the College of Medicine. Botany remained an engaging side-hustle, and this imposing bibliography attempts a classification of the state of knowledge on agricultural matters up to Camerarius’ lifetime. Intriguingly, it lists many works by classical authorities now known to be lost, demonstrating a reverence for the knowledge of antiquity that continued well into the enlightenment.
 
 <param ve-image 
-       label="Bird's nest top" 
+       label="Joachim Camerarius, De re rustica opuscula nonnulla, 1577" 
        description="photograph" 
-       url="https://user-images.githubusercontent.com/110464039/189693954-2c4800d3-56d8-4b0b-90ff-8e8cbd3e527e.JPG">
+       url="https://user-images.githubusercontent.com/110464039/189874928-7eef1540-75cc-4684-8eb9-30aa42542729.JPG">
