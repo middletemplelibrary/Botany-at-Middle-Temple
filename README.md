@@ -3,7 +3,9 @@
 <param ve-config 
        title="Botany at Middle Temple"
        author="Middle Temple Library"
-       banner="" 
+       banner="
+<param ve-compare curtain url="https://user-images.githubusercontent.com/110464039/189939636-86553aec-de8f-490b-889b-556645c49b5f.jpg" label="Bird's nest from above" description="photograph">
+<param ve-compare url="https://user-images.githubusercontent.com/110464039/189939647-3a50a070-678c-460d-a79b-37fd995e59fc.jpg" label="Bird's nest from side" description="photograph">" 
        layout="vertical">
       
       
@@ -184,6 +186,10 @@ In the following videos you can see two of the exhibition pieces. They have been
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/189936713-ed5ea275-4bb7-4afc-a237-9e8826ba71a5.jpg">
 
+<param ve-image 
+       label="Captain Donnellan" 
+       description="illustration" 
+       url="https://user-images.githubusercontent.com/110464039/189943583-750e6c5a-8235-44a0-91de-e884ae889247.jpg">
 
 ## Philosophical Transactions 
 
