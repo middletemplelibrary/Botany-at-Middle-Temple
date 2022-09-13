@@ -27,5 +27,4 @@ Like many early-modern botanists, Joachim Camerarius the Younger (1534-1598) was
 <param ve-image 
        label="Bird's nest top" 
        description="photograph" 
-       license="Middle Temple"
        url="https://user-images.githubusercontent.com/110464039/189693954-2c4800d3-56d8-4b0b-90ff-8e8cbd3e527e.JPG">
