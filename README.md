@@ -177,6 +177,18 @@ Despite the lack of evidence, Donnellan was found guilty of murder and executed.
 \
 In the following videos you can see two of the exhibition pieces. They have been animated to show a legible version of the transcription. Both belong to MS86, R v Donellan, papers that formed part of the trial materials in the 1781 case against Captain John Donellan. 
 
-<param ve-video id="Z_fj9AIKWlA"
-       annotation="In the following videos you can see two of the exhibition pieces. They have been animated to show a legible version of the transcription. Both belong to MS86, R v Donellan, papers that formed part of the trial materials in the 1781 case against Captain John Donellan">
+<param ve-video id="Z_fj9AIKWlA">
 <param ve-video id="9WLtFRz8AH4">
+
+## Philosophical Transactions 
+This abridgment volume of the Philosophical Transactions has a reprint of an article first published 30 September 1731. The article, ‘Laurel Water a dangerous poison’, was written by T. Madden, M.D. and describes how people in Ireland died from drinking laurel water, mistakenly believing it to be a harmless cordial. Mary Whaley and Anne Boyle were poisoned in Dublin in September 1728, and Mr. Evans in Kilkenny in 1735. The author, who examined Mary Whaley after her death, then proceeded to experiment with the poisonous substance, using dogs as his unfortunate test subjects, all of which died after being given his laurel water concoction. This is likely the article from the Transactions that was referred to in John Donnellan’s trial.\
+\
+Follow this link for a reprint of the original article: https://royalsocietypublishing.org/doi/epdf/10.1098/rstl.1731.0017
+
+<param ve-image 
+       label="Philosophical Transactions 1731 Laurel Water" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/189891874-cb801c75-c979-4015-93c0-76f7becad351.JPG">
+       
+       
+
