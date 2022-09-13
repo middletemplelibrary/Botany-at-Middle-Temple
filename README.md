@@ -314,6 +314,7 @@ Warmer conditions present other problems, such as the introduction of new pests.
 \
 Scan the QR code for a link to a recording of a black redstart taken at Queen Elizabeth Park, Stratford. 
 
-![image info](https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
+!(https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png)
 
-https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png
+
+![image](https://user-images.githubusercontent.com/110464039/189932633-395919f4-b88d-4b0a-8530-975986c4ecc1.png)
