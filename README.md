@@ -117,6 +117,11 @@ Certain plant species must be registered on the Great Britain and Northern Irela
 Forensic botany, or plant forensics, is a branch of botany that analyses plants and fungi in criminal investigations. Such analysis helps investigators link plant evidence with a crime, “such as placing a suspect at a crime scene through analysis of pollen or seed particles found on their clothing” (Katie Avis-Riordan, Kew Gardens). Plant forensics can also be used to help save someone who has been poisoned, by identifying which plant/toxin has been used, and thus also identifying a potential antidote.\
 [Follow this link to listen to a podcast from Kew Gardens on this fascinating topic.](https://www.kew.org/about-us/virtual-kew-wakehurst/unearthed-kew-podcast\) 
 
+<param ve-image 
+       label="Poppy (Papever Somniferum) from Arthur Pearson Luff, Text-book of Forensic Medicine and Toxicology, Volume 1, 1895" 
+       description="illustration" 
+       url="https://books.google.co.uk/books/content?id=Hig0AQAAMAAJ&pg=PA258-IA1&img=1&zoom=3&hl=en&sig=ACfU3U1TTFhG7DI0HoJaxNNTx64ACWgbfw&ci=46%2C90%2C897%2C1303&edge=0">
+
 ## Plants in case law
 
 There is a variety of case law involving plants and botany, including:\ 
@@ -130,11 +135,6 @@ R v. Jones (James), [2010] EWCA Crim 925 : An undercover police officer posed as
 Monsanto Technology LLC v Cargill International SA, [2008] F.S.R. 7: “A patent concerning the use of enzymes, which if used in plants conferred resistance to glyphosate herbicide, was valid and had not been infringed by the importation of soya beans grown from seeds carrying the gene for one of the enzymes disclosed in the patent”.\
 \
 Taylor v Glasgow City Council, [1920] 2 SLT 74: A young boy died from eating the berries of an unspecified poisonous shrub growing in public gardens in Glasgow. His father sued the Corporation of the City of Glasgow as the proprietors and custodians of the gardens for damages for the death of his son. The Court dismissed the action as irrelevant; the father appealed.
-
-<param ve-image 
-       label="Poppy (Papever Somniferum) from Arthur Pearson Luff, Text-book of Forensic Medicine and Toxicology, Volume 1, 1895" 
-       description="illustration" 
-       url="https://books.google.co.uk/books/content?id=Hig0AQAAMAAJ&pg=PA258-IA1&img=1&zoom=3&hl=en&sig=ACfU3U1TTFhG7DI0HoJaxNNTx64ACWgbfw&ci=46%2C90%2C897%2C1303&edge=0">
 
 ## Arthur Griffiths, Mysteries of police and crime, 1902
 
@@ -160,6 +160,11 @@ A set of five manuscript records was deposited in the Library on 9 June, 1826. T
 Coffee houses were popular social venues in the seventeenth and eighteenth centuries, attracting men (and sometimes women) from all levels of society. Although known to earlier travellers, coffee as a drink was introduced to England from Turkey in 1652. Coffee is produced by brewing the dried, roasted seeds of the berries of Coffea plants. Coffee was believed to cure headaches, gout, and some skin conditions. Sir Nicholas Lawes introduced coffee to Jamaica in 1728, but its cultivation and profitability relied on the exploitation of slave labour. At the time of his death in 1731, he owned 478 slaves. Lawes’ son Temple is named in one of the draft deeds listed in the Library’s eighteenth-century manuscript of conveyancing precedents, MS37.\
 \
 [Follow this link to access a transcription of all five volumes of the Records, and a list of the Society’s members.](middletemple.org.uk/library/library-collections/rare-books-manuscripts/manuscripts-collection/society-bears)
+
+<param ve-image 
+       label="Records of The Society of the Bears" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/190604419-1b058555-4a11-4ff1-8458-5c4ba1a5fd97.JPG">
 
 ## The coffee-house
 James Miller’s The coffee-house, 1737, and a view of the back of Dick’s Coffee-House from Hare Court (MT/19/ILL/E/E5/1)\
