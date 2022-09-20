@@ -382,7 +382,7 @@ Warmer conditions present other problems, such as the introduction of new pests.
 <param ve-image 
        label="Middle Temple Gardens" 
        description="photograph" 
-       url="https://user-images.githubusercontent.com/110464039/189932633-395919f4-b88d-4b0a-8530-975986c4ecc1.png"> 
+       url="https://user-images.githubusercontent.com/110464039/191282100-1cfa991b-a86f-4d55-b9f0-bd08370d2759.jpg"> 
 
 ## Middle Temple Gardens
 
