@@ -361,7 +361,7 @@ On display here are specimens sourced by the gardener, Kate Jenrick: bistort, fi
        
 ## Plants and wildlife at the Inn (present day)
 
-Kate Jenrick, Gardener
+Kate Jenrick, Gardener\
 The gardens at Middle Temple have provided the Inn with a variety of purposes through the years – from providing food with a kitchen garden, growing herbs, allotments during World War II, and a floral display for enjoyment today. They have also provided a haven for wildlife in the midst of a metropolis, and their value is reflected in the City of London’s awarding it a Grade Two listing of Borough Importance for Nature Conservation.\
 \
 The Black redstart is a small bird (something between a robin and a small blackbird) with a special link to the Temple. Before the 1940s it was a rare passing migrant in this country. In 1944 one of just three breeding pairs was recorded (and photographed) at Temple. The Black redstart is still rare throughout the country. To help ensure its survival it is a listed target species in the City of London Biodiversity plan.\
@@ -385,7 +385,7 @@ Photograph of storm damage in Middle Temple Garden (MT/19/PHO/10/17/15), taken a
 <param ve-image 
        label="1987 storm damage" 
        description="photograph" 
-       url="https://user-images.githubusercontent.com/110464039/191247389-119dae6b-d279-4d0d-b2bc-f4f72f656d48.jpg">
+       url="https://user-images.githubusercontent.com/110464039/191264716-db8eef91-d090-472b-81e5-0b2e510f3c51.jpg">
 
 
 Photographs of snow in the garden and Fountain Court, taken in 2012 and 2018 respectively, by Renae Satterley, Librarian.
