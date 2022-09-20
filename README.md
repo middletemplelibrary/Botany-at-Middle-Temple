@@ -112,7 +112,7 @@ Alpini’s ground-breaking study of the Egyptian flora – the first of its kind
 
 ## Plants in the legal world
 
-Plants are well represented in the legal world. Legal cases include those on plant theft, the illegal importation of protected species, murder trials involving the use of poisonous plants, ‘sting’ operations on cannabis growers, and the protection of patented genes in plants. There is also a variety of legislation regulating plants and seeds, including the Plant Varieties Act 1997. Additionally, there is a Plant Varieties & Seeds Tribunal that “makes decisions about national listing of new varieties of plants, UK plant variety rights and certain forestry matters”. The Tribunal has been dormant since 1984 as there have been other regulations and methods to resolve the relevant disputes, however.\ 
+Plants are well represented in the legal world. Legal cases include those on plant theft, the illegal importation of protected species, murder trials involving the use of poisonous plants, ‘sting’ operations on cannabis growers, and the protection of patented genes in plants. There is also a variety of legislation regulating plants and seeds, including the Plant Varieties Act 1997. Additionally, there is a Plant Varieties & Seeds Tribunal that “makes decisions about national listing of new varieties of plants, UK plant variety rights and certain forestry matters”. The Tribunal has been dormant since 1984 as there have been other regulations and methods to resolve the relevant disputes, however.\
 Certain plant species must be registered on the Great Britain and Northern Ireland Variety Lists. The Controller of Plant Variety Rights keeps a “register of the names of plant varieties in respect of which plant breeders' rights have been granted … and keeps records of plant varieties for which applications for grants of rights are under consideration and for which rights have been granted”.\
 Forensic botany, or plant forensics, is a branch of botany that analyses plants and fungi in criminal investigations. Such analysis helps investigators link plant evidence with a crime, “such as placing a suspect at a crime scene through analysis of pollen or seed particles found on their clothing” (Katie Avis-Riordan, Kew Gardens). Plant forensics can also be used to help save someone who has been poisoned, by identifying which plant/toxin has been used, and thus also identifying a potential antidote.\
 [Follow this link to listen to a podcast from Kew Gardens on this fascinating topic.](https://www.kew.org/about-us/virtual-kew-wakehurst/unearthed-kew-podcast) 
@@ -124,7 +124,7 @@ Forensic botany, or plant forensics, is a branch of botany that analyses plants 
 
 ## Plants in case law
 
-There is a variety of case law involving plants and botany, including:\ 
+There is a variety of case law involving plants and botany, including:\
 \
 R v Singh, [2010] EWCA Crim 2951: the offender had poisoned her victims (one of whom died) using Indian aconite (Aconitum ferox) in a curry.\
 \
@@ -154,9 +154,9 @@ Accompanying this book are dried specimens from the gardens at Middle Temple: ol
 
 ## The trial of Robert Sawle Donnall, surgeon and apothecary, 1817 
 
-Donnall was charged with murdering his mother-in-law, Elizabeth Downing. Donnall was accused of serving her a cup of cocoa laced with arsenic. Robert Casberd (1772-1842), a Bencher of the Inn, was one of the prosecuting counsel, and claimed that Donnall had twice poisoned Elizabeth Downing – once on the 19th of October 1816, and the second the day before her death, the 3rd of November, 1816. An autopsy was performed by a Dr. Edwards and Mr. John Street, with Donnall present. Edwards and Street had poured the contents of her stomach into an earthen jug which Donnall, without their knowledge, emptied into a “chamber utensil”, that is, a chamber pot in which there was already some water, thus diluting the contents. Edwards testified that the stomach inflammation he observed in her stomach “could not be produced by any natural cause”. Edwards tested the stomach contents, which showed the presence of arsenic. However, Donnall was acquitted; a maid, Mary Coombe, testified that she drank the remaining cocoa left in Mrs. Downing’s cup.\ 
+Donnall was charged with murdering his mother-in-law, Elizabeth Downing. Donnall was accused of serving her a cup of cocoa laced with arsenic. Robert Casberd (1772-1842), a Bencher of the Inn, was one of the prosecuting counsel, and claimed that Donnall had twice poisoned Elizabeth Downing – once on the 19th of October 1816, and the second the day before her death, the 3rd of November, 1816. An autopsy was performed by a Dr. Edwards and Mr. John Street, with Donnall present. Edwards and Street had poured the contents of her stomach into an earthen jug which Donnall, without their knowledge, emptied into a “chamber utensil”, that is, a chamber pot in which there was already some water, thus diluting the contents. Edwards testified that the stomach inflammation he observed in her stomach “could not be produced by any natural cause”. Edwards tested the stomach contents, which showed the presence of arsenic. However, Donnall was acquitted; a maid, Mary Coombe, testified that she drank the remaining cocoa left in Mrs. Downing’s cup.\
 \
-Shown here is a diagram of the Donnall’s parlour (‘plan of the tea-room’), and the route Donnall took to serve Mrs. Downing her cocoa; the plan was exhibited in court. Drinking cocoa is of course made from cocoa beans. According to English Heritage, it was made by mixing cocoa powder, water or milk, sugar, and egg yolks.\ [Follow this link for a digital version of the trial account.](https://archive.org/details/b20443559/page/n3/mode/2up) 
+Shown here is a diagram of the Donnall’s parlour (‘plan of the tea-room’), and the route Donnall took to serve Mrs. Downing her cocoa; the plan was exhibited in court. Drinking cocoa is of course made from cocoa beans. According to English Heritage, it was made by mixing cocoa powder, water or milk, sugar, and egg yolks.\[Follow this link for a digital version of the trial account.](https://archive.org/details/b20443559/page/n3/mode/2up) 
 
 <param ve-image 
        label="Diagram of Donnall's parlour" 
@@ -225,7 +225,7 @@ The second being an account of the complaints of Sir Theodosius Boughton.
 
 This abridgment volume of the Philosophical Transactions has a reprint of an article first published 30 September 1731. The article, ‘Laurel Water a dangerous poison’, was written by T. Madden, M.D. and describes how people in Ireland died from drinking laurel water, mistakenly believing it to be a harmless cordial. Mary Whaley and Anne Boyle were poisoned in Dublin in September 1728, and Mr. Evans in Kilkenny in 1735. The author, who examined Mary Whaley after her death, then proceeded to experiment with the poisonous substance, using dogs as his unfortunate test subjects, all of which died after being given his laurel water concoction. This is likely the article from the Transactions that was referred to in John Donnellan’s trial.\
 \
-Follow this link for a reprint of the original article: https://royalsocietypublishing.org/doi/epdf/10.1098/rstl.1731.0017
+[Follow this link for a reprint of the original article](https://royalsocietypublishing.org/doi/epdf/10.1098/rstl.1731.0017)
 
 <param ve-image 
        label="Philosophical Transactions 1731 Laurel Water" 
