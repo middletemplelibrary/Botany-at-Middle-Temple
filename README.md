@@ -177,7 +177,7 @@ Coffee houses were popular social venues in the seventeenth and eighteenth centu
        url="https://user-images.githubusercontent.com/110464039/190604419-1b058555-4a11-4ff1-8458-5c4ba1a5fd97.JPG">
 
 ## The coffee-house
-James Miller’s The coffee-house, 1737, and a view of the back of Dick’s Coffee-House from Hare Court (MT/19/ILL/E/E5/1)\
+
 This reproduction frontispiece shows the interior of Dick’s Coffee-House, which was located at no.8, Fleet Street (south side, near to the Temple Bar). The play had an unfavourable depiction of the landlady (Mrs. Yarrow) and her daughter, who were the “reigning toasts of the Templars”, the coffee-house’s main customers. The barristers successfully managed to scupper the opening night production in the Yarrows’ defence. The play begins with lines that will be familiar to any student of the law: “Hah! My dear Templer, well met: Why so pensive pr’ythee? What, just come from nodding over Coke upon Littleton?” According to John Timbs, the location of Dick’s Coffee-House was (partially) the original site of Richard Tottel’s printing house, and in the nineteenth century was occupied by Butterworths. This nineteenth-century print shows a view of the back of the establishment, as seen from Hare Court.
 
 <param ve-image 
@@ -189,6 +189,7 @@ This reproduction frontispiece shows the interior of Dick’s Coffee-House, whic
        label="A view of the back of Dick’s Coffee-House from Hare Court. Ⓒ Trustees of the British Museum." 
        description="illustration" 
        url="https://user-images.githubusercontent.com/110464039/191244520-e32acd4f-c3fb-4db8-b97f-316d737573a3.JPG">
+
 
 ## R v Donnellan
 
@@ -382,7 +383,7 @@ Photograph of storm damage in Middle Temple Garden (MT/19/PHO/10/17/15), taken a
 <param ve-image 
        label="1987 storm damage" 
        description="photograph" 
-       url="https://user-images.githubusercontent.com/110464039/189942902-28ad9265-357d-45a1-9902-8ace9e6fcdf7.jpg">
+       url="https://user-images.githubusercontent.com/110464039/191247389-119dae6b-d279-4d0d-b2bc-f4f72f656d48.jpg">
 
 
 Photographs of snow in the garden and Fountain Court, taken in 2012 and 2018 respectively, by Renae Satterley, Librarian.
