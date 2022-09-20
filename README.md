@@ -380,7 +380,7 @@ Warmer conditions present other problems, such as the introduction of new pests.
 
 ## Middle Temple Gardens
 
-Photograph of storm damage in Middle Temple Garden (MT/19/PHO/10/17/15), taken after the 1987 storm which took down London plane trees (Platanus x hispanica) at the embankment end of the garden. This photograph shows the ripped-up root of the tree looking north towards Hall and the Library. London plane trees are a hybrid of American sycamore and Oriental plane trees.
+Photographs of storm damage in Middle Temple Garden (MT/19/PHO/10/17/15), taken after the 1987 storm which took down London plane trees (Platanus x hispanica) at the embankment end of the garden. This photograph shows the ripped-up root of the tree looking north towards Hall and the Library. London plane trees are a hybrid of American sycamore and Oriental plane trees.
 
 <param ve-image 
        label="1987 storm damage" 
