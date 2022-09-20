@@ -11,7 +11,7 @@
 
 Plants provide the foundation for nearly all life on earth. The chloroplasts in green plants provide some 70% of our breathable oxygen and sit at the centre of countless ecosystems. By the same token, plants are essential to human life and civilization. Grains, pulses, fruits, and vegetables are staple foods around the world, and the calories from a single species of rice – Oryza sativa – sustain over 3.5 billion people. Plant fibres provide us with clothing, plant timbers provide us with building materials for shelter, and plant-derived compounds still provide the active ingredients in many of our most effective medicines.
 Plants also provide the materials for some poisons, which have been used for centuries to commit heinous crimes. Ricin, for example, which is derived from castor beans, was used to poison the Bulgarian defector Georgi Markov in London in 1978. Even nicotine, found in nightshade plants (Solanaceae), can be a deadly neurotoxin when used in large quantities.\
-The Library’s Rare Book and Manuscript collections provide a wealth of materials to explore the fascinating topic of botany and plants – from sixteenth-century woodcuts illustrating medical botany, seventeenth-century tracts promoting food security, to murder trials. The Archive has a rich repository of documents that also tell the story of botany at the Inn, such as gardener’s bills and photographs. And, of course, the Inn has a beautiful garden with a rich and interesting past and present. 
+The Library’s Rare Book and Manuscript collections provide a wealth of materials to explore the fascinating topic of botany and plants – from sixteenth-century woodcuts illustrating medical botany, seventeenth-century tracts promoting food security, to murder trials. The Archive has a rich repository of documents that also tell the story of botany at the Inn, such as gardener’s bills and photographs. And, of course, the Inn has a beautiful garden with a rich and interesting past and present.\
 This exhibition links materials from the Inn’s Archives, Rare Books, and Manuscript collections, combined with materials from the garden, to explore the splendid and diverse role that plants and botany play at the Inn. It was curated by Will Beharrell, Librarian at the Linnean Society, and Kate Jenrick and Renae Satterley, respectively Gardener and Librarian at Middle Temple, with the generous support of Victoria Hildreth, Assistant Archivist; Liane Owen, Book Conservator; and Siobhán Prendergast, Conservator. 
 
 <param ve-image 
@@ -32,7 +32,7 @@ Like many early-modern botanists, Joachim Camerarius the Younger (1534-1598) was
        
 ## Joannes de Laet, Novus orbis seu descriptionis Indiae Occidentalis libri XVIII, 1633
 
-Just three crops – sugar, tobacco, and cotton – provided much of the economic impetus for European colonial expansion in the seventeenth and eighteenth centuries. Sugar alone represented nearly 20% of European imports by value by the end of the eighteenth-century, with the annual trade thought to be worth nearly £7m by 1788. Much of that wealth originated in the West Indies, powered by a brutal triangular trade in enslaved people.
+Just three crops – sugar, tobacco, and cotton – provided much of the economic impetus for European colonial expansion in the seventeenth and eighteenth centuries. Sugar alone represented nearly 20% of European imports by value by the end of the eighteenth-century, with the annual trade thought to be worth nearly £7m by 1788. Much of that wealth originated in the West Indies, powered by a brutal triangular trade in enslaved people.\
 The growing importance of this trade can be measured indirectly by the gradual mapping of the territories in which it took place. This 1633 atlas of North America, by the leading cartographer Johannes de Laet (1581-1649), was ground-breaking in its day. It contains the first appearance in print of many now famous place names, including ‘Massachusetts’ and ‘Manhattan’, and many woodcut illustrations, such as this one depicting cocoa beans. 
 
 <param ve-image 
@@ -138,7 +138,7 @@ Taylor v Glasgow City Council, [1920] 2 SLT 74: A young boy died from eating the
 
 ## Arthur Griffiths, Mysteries of police and crime, 1902
 
-Arthur Griffiths (1838-1908) was the inspector of prisons before becoming a prolific author, and “a significant analyst of the history of crime and prison discipline”. This plate shows various poisonous plants that were often used to murder people, including hemlock (Conium maculatum), foxglove (Digitalis), oleander (Nerium oleander), monkshood (Aconitum), deadly nightshade (Atropa belladonna), strychnine (Strychnos), Christmas rose (Helleborus niger), thorn apple (Datura), and opium (Papaver somniferum). 
+Arthur Griffiths (1838-1908) was the inspector of prisons before becoming a prolific author, and “a significant analyst of the history of crime and prison discipline”. This plate shows various poisonous plants that were often used to murder people, including hemlock (Conium maculatum), foxglove (Digitalis), oleander (Nerium oleander), monkshood (Aconitum), deadly nightshade (Atropa belladonna), strychnine (Strychnos), Christmas rose (Helleborus niger), thorn apple (Datura), and opium (Papaver somniferum).\
 Accompanying this book are dried specimens from the gardens at Middle Temple: oleander and thorn apple.
 
 <param ve-image 
@@ -235,16 +235,14 @@ This abridgment volume of the Philosophical Transactions has a reprint of an art
 
 ## Mythology of plants
 
-The lore and mythology of plants has a long and interesting history, from Demeter, the Greek goddess of harvest and fertile soil, to the use of mandrake roots in magic rituals. There are many legendary plants, such as the Irrwurz (or herbe d’égarement), the lotus tree, the coco de mer, fern flowers, and peaches of immortality amongst many others. 
-Trees in particular have magical, or mythical properties for many people. The yew tree can regenerate (or resurrect) itself, and as such is often found in churchyards and cemeteries. According to the Horniman Museum, during plague times, people believed it could purify victims when placed on their graves. Sage, or salvia (‘to heal’), was treated as a holy herb by the Romans, and wild sage (pechuel-loeschea leubnitziae) is used as a ‘folk remedy’ to treat various ailments, and ward off mosquitoes in Southern African countries.
+The lore and mythology of plants has a long and interesting history, from Demeter, the Greek goddess of harvest and fertile soil, to the use of mandrake roots in magic rituals. There are many legendary plants, such as the Irrwurz (or herbe d’égarement), the lotus tree, the coco de mer, fern flowers, and peaches of immortality amongst many others.\
+Trees in particular have magical, or mythical properties for many people. The yew tree can regenerate (or resurrect) itself, and as such is often found in churchyards and cemeteries. According to the Horniman Museum, during plague times, people believed it could purify victims when placed on their graves. Sage, or salvia (‘to heal’), was treated as a holy herb by the Romans, and wild sage (pechuel-loeschea leubnitziae) is used as a ‘folk remedy’ to treat various ailments, and ward off mosquitoes in Southern African countries.\
 Plants also have complicated symbologies attached to them, which vary by region, as determined by an area’s unique characteristics. According to Kew Gardens, many of the UK’s wildflowers have mythological associations, such as the association between poppies and Demeter; the ability of St. John’s wort, the sun herb, to ward off the evil of the dark; and the use of wild marjoram in wedding crowns, as it was a favourite herb of Aphrodite, the Greek goddess of love, beauty, and fertility.  
-
 <param ve-image 
        label="Commentarii secundo aucti, in libros sex Pedacii Dioscoridis Anazarbei de medica materia by Pietro Andrea Mattioli, 1560 via https://bibdigital.rjb.csic.es/idurl/1/13527" 
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/189896357-df713820-ad97-42e0-bd9a-f345378ff056.jpg">
 
-       
        
 ## Giambattista della Porta, Phytognomonica, 1588
 
@@ -341,8 +339,8 @@ This tract discusses how to improve food supplies and decries the destruction an
        
 ## Robert Ashley
 
-The Library’s founder, Robert Ashley (1565-1641) was very interested in botany, including medical botany. In his copy of Guy de la Brosse, De la nature, vertu et utilité des plantes (1628), he wrote out this list of plants of interest – ‘bistorte’ (bistort, or pudding dock, (Bistorta officinalis), ‘chamenerion’ (fireweed, Chamaenerion angustifolium), ‘poussepieds’ (samphire), and ‘yeux de bœufs’ (Asteraceae) amongst others. Bistort is used for digestion problems, and chamenerion is known as ‘bombweed’, or ‘fireweed’. In addition to its discussion of medical botany, de la Brosse wrote about the Jardin du roi (now known as the Jardin des plantes) in Paris. The garden was used for medical training, and de la Brosse’s original intention was to build a physic garden.
-Fireweed appears abundantly on newly burned and cleared areas, which lead to it being known as ‘bombweed’ in the UK, as it easily colonised areas that had been bombed and cleared in WWII.  
+The Library’s founder, Robert Ashley (1565-1641) was very interested in botany, including medical botany. In his copy of Guy de la Brosse, De la nature, vertu et utilité des plantes (1628), he wrote out this list of plants of interest – ‘bistorte’ (bistort, or pudding dock, (Bistorta officinalis), ‘chamenerion’ (fireweed, Chamaenerion angustifolium), ‘poussepieds’ (samphire), and ‘yeux de bœufs’ (Asteraceae) amongst others. Bistort is used for digestion problems, and chamenerion is known as ‘bombweed’, or ‘fireweed’. In addition to its discussion of medical botany, de la Brosse wrote about the Jardin du roi (now known as the Jardin des plantes) in Paris. The garden was used for medical training, and de la Brosse’s original intention was to build a physic garden.\
+Fireweed appears abundantly on newly burned and cleared areas, which lead to it being known as ‘bombweed’ in the UK, as it easily colonised areas that had been bombed and cleared in WWII.\
 This book is in desperate need of repair. If you would like to sponsor the cost of that repair, please contact the Librarian: r.satterley@middletemple.org.uk. 
 On display here are specimens sourced by the gardener, Kate Jenrick: bistort, fireweed, and Asteraceae (daisy). 
 
