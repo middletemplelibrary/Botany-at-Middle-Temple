@@ -191,7 +191,7 @@ This reproduction frontispiece shows the interior of Dick’s Coffee-House, whic
 <param ve-image 
        label="A view of the back of Dick’s Coffee-House from Hare Court. Ⓒ Trustees of the British Museum." 
        description="illustration" 
-       url="https://user-images.githubusercontent.com/110464039/191244520-e32acd4f-c3fb-4db8-b97f-316d737573a3.JPG">
+       url="https://user-images.githubusercontent.com/110464039/191263413-8aaf670f-837f-40e4-a730-861d12120280.JPG">
 
 
 ## R v Donnellan
