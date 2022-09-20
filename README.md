@@ -17,7 +17,7 @@ This exhibition links materials from the Inn’s Archives, Rare Books, and Manus
 <param ve-image 
        label="Flowers from Middle Temple Garden" 
        description="photograph" 
-       url="https://user-images.githubusercontent.com/110464039/189944604-ce6093d6-09af-412a-944e-118f37b395bb.jpg">
+       url="https://user-images.githubusercontent.com/110464039/191283061-e23703e6-2e59-4d9f-8cd2-888c74c1cb41.jpg">
 
        
 ## Joachim Camerarius, De re rustica opuscula nonnulla, 1577
