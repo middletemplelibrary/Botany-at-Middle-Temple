@@ -115,12 +115,15 @@ Alpini’s ground-breaking study of the Egyptian flora – the first of its kind
 Plants are well represented in the legal world. Legal cases include those on plant theft, the illegal importation of protected species, murder trials involving the use of poisonous plants, ‘sting’ operations on cannabis growers, and the protection of patented genes in plants. There is also a variety of legislation regulating plants and seeds, including the Plant Varieties Act 1997. Additionally, there is a Plant Varieties & Seeds Tribunal that “makes decisions about national listing of new varieties of plants, UK plant variety rights and certain forestry matters”. The Tribunal has been dormant since 1984 as there have been other regulations and methods to resolve the relevant disputes, however.\
 Certain plant species must be registered on the Great Britain and Northern Ireland Variety Lists. The Controller of Plant Variety Rights keeps a “register of the names of plant varieties in respect of which plant breeders' rights have been granted … and keeps records of plant varieties for which applications for grants of rights are under consideration and for which rights have been granted”.\
 Forensic botany, or plant forensics, is a branch of botany that analyses plants and fungi in criminal investigations. Such analysis helps investigators link plant evidence with a crime, “such as placing a suspect at a crime scene through analysis of pollen or seed particles found on their clothing” (Katie Avis-Riordan, Kew Gardens). Plant forensics can also be used to help save someone who has been poisoned, by identifying which plant/toxin has been used, and thus also identifying a potential antidote.\
+\
 [Follow this link to listen to a podcast from Kew Gardens on this fascinating topic.](https://www.kew.org/about-us/virtual-kew-wakehurst/unearthed-kew-podcast) 
 
 <param ve-image 
        label="Poppy (Papever Somniferum) from Arthur Pearson Luff, Text-book of Forensic Medicine and Toxicology, Volume 1, 1895" 
        description="illustration" 
        url="https://books.google.co.uk/books/content?id=Hig0AQAAMAAJ&pg=PA258-IA1&img=1&zoom=3&hl=en&sig=ACfU3U1TTFhG7DI0HoJaxNNTx64ACWgbfw&ci=46%2C90%2C897%2C1303&edge=0">
+       
+<param ve-iframe src="https://www.legislation.gov.uk/ukpga/1997/66">
 
 ## Plants in case law
 
@@ -159,7 +162,9 @@ Accompanying this book are dried specimens from the gardens at Middle Temple: ol
 
 Donnall was charged with murdering his mother-in-law, Elizabeth Downing. Donnall was accused of serving her a cup of cocoa laced with arsenic. Robert Casberd (1772-1842), a Bencher of the Inn, was one of the prosecuting counsel, and claimed that Donnall had twice poisoned Elizabeth Downing – once on the 19th of October 1816, and the second the day before her death, the 3rd of November, 1816. An autopsy was performed by a Dr. Edwards and Mr. John Street, with Donnall present. Edwards and Street had poured the contents of her stomach into an earthen jug which Donnall, without their knowledge, emptied into a “chamber utensil”, that is, a chamber pot in which there was already some water, thus diluting the contents. Edwards testified that the stomach inflammation he observed in her stomach “could not be produced by any natural cause”. Edwards tested the stomach contents, which showed the presence of arsenic. However, Donnall was acquitted; a maid, Mary Coombe, testified that she drank the remaining cocoa left in Mrs. Downing’s cup.\
 \
-Shown here is a diagram of the Donnall’s parlour (‘plan of the tea-room’), and the route Donnall took to serve Mrs. Downing her cocoa; the plan was exhibited in court. Drinking cocoa is of course made from cocoa beans. According to English Heritage, it was made by mixing cocoa powder, water or milk, sugar, and egg yolks.\[Follow this link for a digital version of the trial account.](https://archive.org/details/b20443559/page/n3/mode/2up) 
+Shown here is a diagram of the Donnall’s parlour (‘plan of the tea-room’), and the route Donnall took to serve Mrs. Downing her cocoa; the plan was exhibited in court. Drinking cocoa is of course made from cocoa beans. According to English Heritage, it was made by mixing cocoa powder, water or milk, sugar, and egg yolks.\
+\
+[Follow this link for a digital version of the trial account.](https://archive.org/details/b20443559/page/n3/mode/2up) 
 
 <param ve-image 
        label="Diagram of Donnall's parlour" 
@@ -345,6 +350,7 @@ This tract discusses how to improve food supplies and decries the destruction an
 
 The Library’s founder, Robert Ashley (1565-1641) was very interested in botany, including medical botany. In his copy of Guy de la Brosse, De la nature, vertu et utilité des plantes (1628), he wrote out this list of plants of interest – ‘bistorte’ (bistort, or pudding dock, (Bistorta officinalis), ‘chamenerion’ (fireweed, Chamaenerion angustifolium), ‘poussepieds’ (samphire), and ‘yeux de bœufs’ (Asteraceae) amongst others. Bistort is used for digestion problems, and chamenerion is known as ‘bombweed’, or ‘fireweed’. In addition to its discussion of medical botany, de la Brosse wrote about the Jardin du roi (now known as the Jardin des plantes) in Paris. The garden was used for medical training, and de la Brosse’s original intention was to build a physic garden.\
 Fireweed appears abundantly on newly burned and cleared areas, which lead to it being known as ‘bombweed’ in the UK, as it easily colonised areas that had been bombed and cleared in WWII.\
+\
 This book is in desperate need of repair. If you would like to sponsor the cost of that repair, please contact the Librarian: r.satterley@middletemple.org.uk. 
 On display here are specimens sourced by the gardener, Kate Jenrick: bistort, fireweed, and Asteraceae (daisy). 
 
