@@ -145,13 +145,23 @@ Accompanying this book are dried specimens from the gardens at Middle Temple: ol
        label="Arthur Griffiths, Mysteries of police and crime, 1902" 
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/189887016-e0cca521-81a7-40e7-b036-76cd79ee29e8.JPG">
-  
+       
+<param ve-image 
+       label="Oleander and thorn apple" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/191242176-bb22287d-f691-4087-b852-62348ce95dd5.jpg">
+       
+
 ## The trial of Robert Sawle Donnall, surgeon and apothecary, 1817 
 
 Donnall was charged with murdering his mother-in-law, Elizabeth Downing. Donnall was accused of serving her a cup of cocoa laced with arsenic. Robert Casberd (1772-1842), a Bencher of the Inn, was one of the prosecuting counsel, and claimed that Donnall had twice poisoned Elizabeth Downing – once on the 19th of October 1816, and the second the day before her death, the 3rd of November, 1816. An autopsy was performed by a Dr. Edwards and Mr. John Street, with Donnall present. Edwards and Street had poured the contents of her stomach into an earthen jug which Donnall, without their knowledge, emptied into a “chamber utensil”, that is, a chamber pot in which there was already some water, thus diluting the contents. Edwards testified that the stomach inflammation he observed in her stomach “could not be produced by any natural cause”. Edwards tested the stomach contents, which showed the presence of arsenic. However, Donnall was acquitted; a maid, Mary Coombe, testified that she drank the remaining cocoa left in Mrs. Downing’s cup.\ 
 \
 Shown here is a diagram of the Donnall’s parlour (‘plan of the tea-room’), and the route Donnall took to serve Mrs. Downing her cocoa; the plan was exhibited in court. Drinking cocoa is of course made from cocoa beans. According to English Heritage, it was made by mixing cocoa powder, water or milk, sugar, and egg yolks.\ [Follow this link for a digital version of the trial account.](https://archive.org/details/b20443559/page/n3/mode/2up) 
 
+<param ve-image 
+       label="Diagram of Donnall's parlour" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/191243016-852ccb11-9a19-4a0b-b561-b8df453cd031.JPG">
 
 ## MS146, Records of The Society of the Bears
 
@@ -171,10 +181,14 @@ James Miller’s The coffee-house, 1737, and a view of the back of Dick’s Coff
 This reproduction frontispiece shows the interior of Dick’s Coffee-House, which was located at no.8, Fleet Street (south side, near to the Temple Bar). The play had an unfavourable depiction of the landlady (Mrs. Yarrow) and her daughter, who were the “reigning toasts of the Templars”, the coffee-house’s main customers. The barristers successfully managed to scupper the opening night production in the Yarrows’ defence. The play begins with lines that will be familiar to any student of the law: “Hah! My dear Templer, well met: Why so pensive pr’ythee? What, just come from nodding over Coke upon Littleton?” According to John Timbs, the location of Dick’s Coffee-House was (partially) the original site of Richard Tottel’s printing house, and in the nineteenth century was occupied by Butterworths. This nineteenth-century print shows a view of the back of the establishment, as seen from Hare Court.
 
 <param ve-image 
-       label="James Miller’s The coffee-house, 1737, and a view of the back of Dick’s Coffee-House from Hare Court. Ⓒ Trustees of the British Museum." 
+       label="James Miller’s The coffee-house, 1737 Ⓒ Trustees of the British Museum." 
        description="illustration" 
        url="https://user-images.githubusercontent.com/110464039/189888973-d86fcd54-815a-4bb6-8414-c04ce00395c7.jpg">
-       
+
+<param ve-image 
+       label="A view of the back of Dick’s Coffee-House from Hare Court. Ⓒ Trustees of the British Museum." 
+       description="illustration" 
+       url="https://user-images.githubusercontent.com/110464039/191244520-e32acd4f-c3fb-4db8-b97f-316d737573a3.JPG">
 
 ## R v Donnellan
 
@@ -242,6 +256,12 @@ Accompanying this book are specimens from the gardens at Middle Temple: Michaelm
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/189893420-fb05aeee-99c4-419b-ba75-cae4c7d8a6b4.JPG">
        
+<param ve-image 
+       label="Michaelmas daisy" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/191242340-66ccd680-5034-49f8-904b-e6af0019fd23.jpg">
+     
+       
 ## Claude Duret, Histoire admirable des plantes et herbes esmerveillables & miraculeuses en nature, 1605 
 
 Claude Duret (1527-1611) was judge, mayor, and botanist. This book, with its woodcut illustrations, outlines ‘miraculous’ and wonderful plants, plant lore and plant mythology. Duret discusses various plants and marine animals used for creating dyes, and claims that a tree common in Scotland had leaves that, when they fell in the water, transformed into fish, and when on land, into birds. The book is open to display the woodcut illustration of ‘ilex aquifolia’, or holly. While holly berries are mildly poisonous to humans, birds love to eat them. Holly has of course been traditionally used in Christmas decorations, as a representation of Christ’s thorns.
@@ -281,7 +301,7 @@ Although there is no evidence that John Evelyn (1620-1706), founding member of t
 <param ve-image 
        label="A portrait of John Evelyn in his younger days, from the Archive (MT/19/POR/263). This engraving dates to 1650 and the artist was Robert Nanteuil (1623?-1678)" 
        description="illustration" 
-       url="https://user-images.githubusercontent.com/110464039/189894890-16dabc31-d79a-4b77-a329-21508d3c72e3.png">
+       url="https://user-images.githubusercontent.com/110464039/191244331-f96efe64-95f1-4150-bf96-698fbd923981.JPG">
 
 ## Bills from the Archive (MT/2/TUT/54, and 64)
 
@@ -293,6 +313,11 @@ Victoria Hildreth, Assistant Archivist: “There are references to a kitchen gar
 \
 On display here are dried specimens from the gardens at Middle Temple: rose, sweet peas, and geraniums. 
 
+<param ve-image 
+       label="Rose, sweet peas, and geraniums" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/191241985-e4756a2a-cc29-49cf-acab-5b263b5d2051.jpg">
+       
 
 ## Ralph Austen, Observations upon some part of Sr Francis Bacon's Naturall history as it concernes fruit-trees, fruits, and flowers, 1658 
 
@@ -325,6 +350,11 @@ On display here are specimens sourced by the gardener, Kate Jenrick: bistort, fi
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/189930125-d0fb18a1-4902-4b71-ab66-b32e42337217.JPG">  
        
+<param ve-image 
+       label="Bistort, fireweed, and asteraceae" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/191242555-eaac2475-3084-458e-9443-25d0df62d4c3.jpg">  
+
        
 ## Plants and wildlife at the Inn (present day)
 
