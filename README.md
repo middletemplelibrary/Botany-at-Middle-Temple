@@ -164,7 +164,7 @@ Shown here is a diagram of the Donnall’s parlour (‘plan of the tea-room’),
 <param ve-image 
        label="Diagram of Donnall's parlour" 
        description="photograph" 
-       url="https://user-images.githubusercontent.com/110464039/191260981-d6a426e8-00f6-477d-b538-2701d9f40228.JPG">
+       url="https://user-images.githubusercontent.com/110464039/191262746-d2b4108e-2147-4d20-a5a3-f25e553e8d88.JPG">
 
 ## MS146, Records of The Society of the Bears
 
