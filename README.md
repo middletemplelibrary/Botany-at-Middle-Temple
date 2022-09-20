@@ -402,4 +402,4 @@ Photographs of snow in the garden and Fountain Court, taken in 2012 and 2018 res
 A bird’s nest, possibly a blue tit’s, found by Kate Jenrick spring 2022. When found on the ground this nest was such a new creation that blue flowers of forget-me-nots were clearly identifiable. The soft yellow base is made from seeds of plane trees.
 
 <param ve-compare curtain url="https://user-images.githubusercontent.com/110464039/189939636-86553aec-de8f-490b-889b-556645c49b5f.jpg" label="Bird's nest from above" description="photograph">
-<param ve-compare url="https://user-images.githubusercontent.com/110464039/189939647-3a50a070-678c-460d-a79b-37fd995e59fc.jpg" label="Bird's nest from side" description="photograph">
+<param ve-compare url="https://user-images.githubusercontent.com/110464039/191247818-1bee31c5-2eba-4e1f-9baa-1d3f507b82d3.jpg" label="Bird's nest from side" description="photograph">
