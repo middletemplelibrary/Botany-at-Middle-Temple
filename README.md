@@ -389,7 +389,7 @@ Warmer conditions present other problems, such as the introduction of new pests.
 Photographs of storm damage in Middle Temple Garden (MT/19/PHO/10/17/15), taken after the 1987 storm which took down London plane trees (Platanus x hispanica) at the embankment end of the garden. This photograph shows the ripped-up root of the tree looking north towards Hall and the Library. London plane trees are a hybrid of American sycamore and Oriental plane trees.
 
 <param ve-compare curtain url="https://user-images.githubusercontent.com/110464039/191303889-db9be34c-3834-44ff-ba9b-dfb41fd7c4be.jpg" label="1987 Storm damage" description="photograph">
-<param ve-compare url="https://user-images.githubusercontent.com/110464039/191303970-10852e44-97ef-449c-a2df-826ec15d9ee1.jpg" label="1987 Storm damage" description="photograph">
+<param ve-compare url="https://user-images.githubusercontent.com/110464039/191304944-2493d401-8177-40c6-9b86-a4b8c618a7ac.jpg" label="1987 Storm damage" description="photograph">
 
 
 Photographs of snow in the garden and Fountain Court, taken in 2012 and 2018 respectively, by Renae Satterley, Librarian.
