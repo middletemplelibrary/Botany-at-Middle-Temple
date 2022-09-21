@@ -62,6 +62,7 @@ Pietro de’ Crescenzi (c.1230-1320) was another natural historian with a day jo
        url="https://user-images.githubusercontent.com/110464039/189878312-530744a2-7c01-47fa-873b-3bf0fb7d7a45.JPG">
 
 ## Plant medicine
+
 ‘Plant medicine’ is a rather denigrated term these days – with modern pharmacology having mostly abandoned plant-derived compounds in favour of synthetic alternatives – but for centuries plants provided the most effective remedies against a range of human ailments. Many of today’s most common drugs still have a plant-ancestor in their past – from aspirin (willow tree) to opium (poppies), quinine (cinchona) and digoxin (foxgloves) – treating everything from malarial fever to heart disease, and chronic pain.\
 The Egyptians provide among the oldest recorded herbals* in the ancient world, but for centuries the most influential text in western medicine was the work of Dioscorides. His ‘De materia medica’ (composed sometime between 50 and 70 CE) was unfathomably influential and remained the basis of most scholarly pharmacopoeias for over 1,600 years.\
 All the books in this case originate from the pre-enlightenment milieu in which Dioscoridean materia medica ruled and includes perhaps the most influential renaissance edition (by Pietro Mattioli). It was not until the early nineteenth-century, and the triumph of the scientific deductive method, that Dioscorides was finally knocked off his perch.\
@@ -320,6 +321,16 @@ Although there is no evidence that John Evelyn (1620-1706), founding member of t
 Victoria Hildreth, Assistant Archivist: “There are references to a kitchen garden in the Minutes of Parliament dated 24 November 1609 and in bills from the late 1610s, which would have grown vegetables and herbs for culinary and medicinal use at the Inn. The minutes of 1609 reference a reduction in the size of the garden as it granted permission for Francis Warnett and John Puleston, members of the Society, to build a new set of chambers in the kitchen garden and this permission may have been granted due to a wider availability of produce in local markets than in earlier centuries. An estimated location of the garden can be ascertained by looking at the location of the newly built chamber, which was on Middle Temple Lane, and by the fact that it was ‘from the corner of the chamber of Mr Overbury northward towards the brick wall dividing the kitchen garden from the Town Buildings’”.\
 \
 On display here are dried specimens from the gardens at Middle Temple: rose, sweet peas, and geraniums. 
+
+<param ve-image 
+       label="Gardener's bill 1723-24" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/191549610-56719219-8e6e-4a8c-b870-f111327c3f4e.jpg">
+
+<param ve-image 
+       label="Gardener's bill 1817" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/191549745-3fe4d787-8648-403c-a8ff-71f5f7250062.jpg">
 
 <param ve-image 
        label="Rose, sweet peas, and geraniums" 
