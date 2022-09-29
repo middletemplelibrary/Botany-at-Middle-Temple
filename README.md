@@ -218,7 +218,12 @@ In this ‘cause célèbre’, Captain John Donnellan was tried before Mr. Justi
 Donnellan had a distillation still, and copies of the Philosophical Transactions out of which he had marked pages that explained how to produce laurel water. The pages explained how people in Ireland had died after drinking it. The prosecuting counsel stated in the indictment that he believed Boughton was poisoned with laurel water. Laurel water is made by distilling leaves from cherry laurel (Prunus laurocerasus) and contains hydrocyanic acid.\
 \
 Despite the lack of evidence, Donnellan was found guilty of murder and executed. On the morning of his execution, he admitted to distilling laurel water, but claimed it was for washing his feet. Despite the circumstantial evidence presented at his trial, many believed him innocent of the crime. On display is a sample of cherry laurel taken from the gardens at Middle Temple.\
-\
+
+<param ve-image 
+       label="Cherry laurel" 
+       description="photograph" 
+       url="https://user-images.githubusercontent.com/110464039/193049917-24839a06-da09-4a80-817d-95627f4b633b.png">
+
 In the following videos you can see two of the exhibition pieces. They have been animated to show a legible version of the transcription. Both belong to MS86, R v Donellan, papers that formed part of the trial materials in the 1781 case against Captain John Donellan.\
 \
 The first being Anna Boughton's deposition.
