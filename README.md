@@ -210,7 +210,7 @@ In this ‘cause célèbre’, Captain John Donnellan was tried before Mr. Justi
        url="https://user-images.githubusercontent.com/110464039/189943583-750e6c5a-8235-44a0-91de-e884ae889247.jpg">
        
 <param ve-image 
-       label="Lawford Hall" 
+       label="Image of Lawford Hall from Picturesque views on the upper, or Warwickshire Avon: from its sources at Naseby to its junction with the Severn at Tewkesbury; with observations on the public buildings, and other works of art in its vicinity, by Samuel Ireland, 1795" 
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/189936713-ed5ea275-4bb7-4afc-a237-9e8826ba71a5.jpg">
 
