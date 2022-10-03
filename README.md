@@ -205,10 +205,10 @@ This reproduction frontispiece shows the interior of Dick’s Coffee-House, whic
 In this ‘cause célèbre’, Captain John Donnellan was tried before Mr. Justice Francis Buller in Warwick in 1781 for the poisoning of his brother-in-law, Sir Theodosius Boughton. Donnellan was married to Boughton’s sister and heir Theodosia. Boughton was a known womaniser, and had been infected with syphilis (i.e., the clap, as shown here), for which he was undergoing treatment from an apothecary, who provided him with a specially made draught. His mother, Anna Boughton, unwittingly administered the poison from a phial purporting to contain this draught. As shown here in her deposition, written in her own hand, the draught smelled like bitter almonds, and she gave him some cheese to get rid of the taste and smell of it. Boughton died soon after drinking the concoction, having gone into severe convulsions. Donnellan rinsed the bottle out before anyone could examine it. A post-mortem was conducted, and the smell of bitter almonds was noted. The celebrated surgeon, John Hunter, also examined the body and stated that the smell was produced by laurel water mixed with the apothecary’s draught. Dr. Hunter did not believe that the victim had been poisoned, however.
 
 <param ve-image 
-       label="Captain Donnellan" 
+       label="Illustration of Captain Donnellan, reproduced courtesy of the National Library of Ireland" 
        description="illustration" 
-       url="https://user-images.githubusercontent.com/110464039/189943583-750e6c5a-8235-44a0-91de-e884ae889247.jpg">
-       
+       url="https://user-images.githubusercontent.com/110464039/193550479-58baec98-cc96-435c-82c3-5b4cf6bfee74.png">
+     
 <param ve-image 
        label="An image of Lawford Hall from 'Picturesque views on the upper, or Warwickshire Avon: from its sources at Naseby to its junction with the Severn at Tewkesbury; with observations on the public buildings, and other works of art in its vicinity' by Samuel Ireland, 1795" 
        description="photograph" 
