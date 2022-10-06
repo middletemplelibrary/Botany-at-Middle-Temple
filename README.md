@@ -178,7 +178,7 @@ A set of five manuscript records was deposited in the Library on 9 June, 1826. T
 \
 Coffee houses were popular social venues in the seventeenth and eighteenth centuries, attracting men (and sometimes women) from all levels of society. Although known to earlier travellers, coffee as a drink was introduced to England from Turkey in 1652. Coffee is produced by brewing the dried, roasted seeds of the berries of Coffea plants. Coffee was believed to cure headaches, gout, and some skin conditions. Sir Nicholas Lawes introduced coffee to Jamaica in 1728, but its cultivation and profitability relied on the exploitation of slave labour. At the time of his death in 1731, he owned 478 slaves. Lawes’ son Temple is named in one of the draft deeds listed in the Library’s eighteenth-century manuscript of conveyancing precedents, MS37.\
 \
-[Follow this link to access a transcription of all five volumes of the Records, and a list of the Society’s members.](middletemple.org.uk/library/library-collections/rare-books-manuscripts/manuscripts-collection/society-bears)
+[Follow this link to access a transcription of all five volumes of the Records, and a list of the Society’s members.](https://www.middletemple.org.uk/library/library-collections/rare-books-manuscripts/manuscripts-collection/society-bears)
 
 <param ve-image 
        label="Records of The Society of the Bears" 
