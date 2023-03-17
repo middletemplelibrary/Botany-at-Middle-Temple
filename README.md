@@ -103,7 +103,7 @@ Mondardes (1493-1588) was a Spanish physician who published prolifically on medi
 ## Prospero Alpini, De plantis Aegypti liber, 1592
 
 Alpini’s ground-breaking study of the Egyptian flora – the first of its kind in Europe – illustrates the problems of marrying new discoveries to the received wisdom of the classical authorities in the early-modern period. Alpini’s attempt to match new species to those described in antiquity was destined for failure, but his precise descriptions – based on specimens he had personally examined – nonetheless provided a useful corrective to the rumours and fables associated with exotic ‘oriental’ plants. His treatise includes the first appearance in print of several now-famous species, including the banana, baobab, and Arabic coffee plants. The woodcut illustration is of the tamarind tree, Tamarindus indica.
-\
+<br><br>
 [Allison Fulton, Amara Santiesteban Serrano, and Jeannette Schollaert have written about tamarind at the Plant Humanities Lab site.](https://lab.plant-humanities.org/tamarind/)
 
 <param ve-image 
@@ -113,10 +113,10 @@ Alpini’s ground-breaking study of the Egyptian flora – the first of its kind
 
 ## Plants in the legal world
 
-Plants are well represented in the legal world. Legal cases include those on plant theft, the illegal importation of protected species, murder trials involving the use of poisonous plants, ‘sting’ operations on cannabis growers, and the protection of patented genes in plants. There is also a variety of legislation regulating plants and seeds, including the Plant Varieties Act 1997. Additionally, there is a Plant Varieties & Seeds Tribunal that “makes decisions about national listing of new varieties of plants, UK plant variety rights and certain forestry matters”. The Tribunal has been dormant since 1984 as there have been other regulations and methods to resolve the relevant disputes, however.\
-Certain plant species must be registered on the Great Britain and Northern Ireland Variety Lists. The Controller of Plant Variety Rights keeps a “register of the names of plant varieties in respect of which plant breeders' rights have been granted … and keeps records of plant varieties for which applications for grants of rights are under consideration and for which rights have been granted”.\
-Forensic botany, or plant forensics, is a branch of botany that analyses plants and fungi in criminal investigations. Such analysis helps investigators link plant evidence with a crime, “such as placing a suspect at a crime scene through analysis of pollen or seed particles found on their clothing” (Katie Avis-Riordan, Kew Gardens). Plant forensics can also be used to help save someone who has been poisoned, by identifying which plant/toxin has been used, and thus also identifying a potential antidote.\
-\
+Plants are well represented in the legal world. Legal cases include those on plant theft, the illegal importation of protected species, murder trials involving the use of poisonous plants, ‘sting’ operations on cannabis growers, and the protection of patented genes in plants. There is also a variety of legislation regulating plants and seeds, including the Plant Varieties Act 1997. Additionally, there is a Plant Varieties & Seeds Tribunal that “makes decisions about national listing of new varieties of plants, UK plant variety rights and certain forestry matters”. The Tribunal has been dormant since 1984 as there have been other regulations and methods to resolve the relevant disputes, however.<br>
+Certain plant species must be registered on the Great Britain and Northern Ireland Variety Lists. The Controller of Plant Variety Rights keeps a “register of the names of plant varieties in respect of which plant breeders' rights have been granted … and keeps records of plant varieties for which applications for grants of rights are under consideration and for which rights have been granted”.<br>
+Forensic botany, or plant forensics, is a branch of botany that analyses plants and fungi in criminal investigations. Such analysis helps investigators link plant evidence with a crime, “such as placing a suspect at a crime scene through analysis of pollen or seed particles found on their clothing” (Katie Avis-Riordan, Kew Gardens). Plant forensics can also be used to help save someone who has been poisoned, by identifying which plant/toxin has been used, and thus also identifying a potential antidote.
+<br><br>
 [Follow this link to listen to a podcast from Kew Gardens on this fascinating topic.](https://www.kew.org/about-us/virtual-kew-wakehurst/unearthed-kew-podcast) 
 
 <param ve-image 
@@ -128,16 +128,16 @@ Forensic botany, or plant forensics, is a branch of botany that analyses plants 
 
 ## Plants in case law
 
-There is a variety of case law involving plants and botany, including:\
-\
-R v Singh, [2010] EWCA Crim 2951: the offender had poisoned her victims (one of whom died) using Indian aconite (Aconitum ferox) in a curry.\
-\
-US v Norris, 452 F.3d1275: George Norris conspired to import protected orchids from Peru into the United States, in violation of the Convention on International Trade in Endangered Species of Wild Fauna and Flora.\
-\
-R v. Jones (James), [2010] EWCA Crim 925 : An undercover police officer posed as a buyer in Jones’ hydroponics shop, asking for advice on growing cannabis. Jones explained that it was illegal to grow cannabis, and instead gave the police officer advice on growing ‘tomatoes’. In the appeal, Jones claimed the officer had pressed him to commit an offence – he was originally found guilty of an incitement to produce cannabis, not tomatoes.\
-\
-Monsanto Technology LLC v Cargill International SA, [2008] F.S.R. 7: “A patent concerning the use of enzymes, which if used in plants conferred resistance to glyphosate herbicide, was valid and had not been infringed by the importation of soya beans grown from seeds carrying the gene for one of the enzymes disclosed in the patent”.\
-\
+There is a variety of case law involving plants and botany, including:
+<br><br>
+R v Singh, [2010] EWCA Crim 2951: the offender had poisoned her victims (one of whom died) using Indian aconite (Aconitum ferox) in a curry.
+<br><br>
+US v Norris, 452 F.3d1275: George Norris conspired to import protected orchids from Peru into the United States, in violation of the Convention on International Trade in Endangered Species of Wild Fauna and Flora.
+<br><br>
+R v. Jones (James), [2010] EWCA Crim 925 : An undercover police officer posed as a buyer in Jones’ hydroponics shop, asking for advice on growing cannabis. Jones explained that it was illegal to grow cannabis, and instead gave the police officer advice on growing ‘tomatoes’. In the appeal, Jones claimed the officer had pressed him to commit an offence – he was originally found guilty of an incitement to produce cannabis, not tomatoes.
+<br><br>
+Monsanto Technology LLC v Cargill International SA, [2008] F.S.R. 7: “A patent concerning the use of enzymes, which if used in plants conferred resistance to glyphosate herbicide, was valid and had not been infringed by the importation of soya beans grown from seeds carrying the gene for one of the enzymes disclosed in the patent”.
+<br><br>
 Taylor v Glasgow City Council, [1920] 2 SLT 74: A young boy died from eating the berries of an unspecified poisonous shrub growing in public gardens in Glasgow. His father sued the Corporation of the City of Glasgow as the proprietors and custodians of the gardens for damages for the death of his son. The Court dismissed the action as irrelevant; the father appealed.
 
 <param ve-iframe src="https://www.bailii.org/ew/cases/EWCA/Crim/2010/925.html">
@@ -145,7 +145,8 @@ Taylor v Glasgow City Council, [1920] 2 SLT 74: A young boy died from eating the
 
 ## Arthur Griffiths, Mysteries of police and crime, 1902
 
-Arthur Griffiths (1838-1908) was the inspector of prisons before becoming a prolific author, and “a significant analyst of the history of crime and prison discipline”. This plate shows various poisonous plants that were often used to murder people, including hemlock (Conium maculatum), foxglove (Digitalis), oleander (Nerium oleander), monkshood (Aconitum), deadly nightshade (Atropa belladonna), strychnine (Strychnos), Christmas rose (Helleborus niger), thorn apple (Datura), and opium (Papaver somniferum).\
+Arthur Griffiths (1838-1908) was the inspector of prisons before becoming a prolific author, and “a significant analyst of the history of crime and prison discipline”. This plate shows various poisonous plants that were often used to murder people, including hemlock (Conium maculatum), foxglove (Digitalis), oleander (Nerium oleander), monkshood (Aconitum), deadly nightshade (Atropa belladonna), strychnine (Strychnos), Christmas rose (Helleborus niger), thorn apple (Datura), and opium (Papaver somniferum).
+<br><br>
 Accompanying this book are dried specimens from the gardens at Middle Temple: oleander and thorn apple.
 
 <param ve-image 
