@@ -240,8 +240,8 @@ The second being an account of the complaints of Sir Theodosius Boughton.
 
 ## Philosophical Transactions 
 
-This abridgment volume of the Philosophical Transactions has a reprint of an article first published 30 September 1731. The article, ‘Laurel Water a dangerous poison’, was written by T. Madden, M.D. and describes how people in Ireland died from drinking laurel water, mistakenly believing it to be a harmless cordial. Mary Whaley and Anne Boyle were poisoned in Dublin in September 1728, and Mr. Evans in Kilkenny in 1735. The author, who examined Mary Whaley after her death, then proceeded to experiment with the poisonous substance, using dogs as his unfortunate test subjects, all of which died after being given his laurel water concoction. This is likely the article from the Transactions that was referred to in John Donnellan’s trial.\
-\
+This abridgment volume of the Philosophical Transactions has a reprint of an article first published 30 September 1731. The article, ‘Laurel Water a dangerous poison’, was written by T. Madden, M.D. and describes how people in Ireland died from drinking laurel water, mistakenly believing it to be a harmless cordial. Mary Whaley and Anne Boyle were poisoned in Dublin in September 1728, and Mr. Evans in Kilkenny in 1735. The author, who examined Mary Whaley after her death, then proceeded to experiment with the poisonous substance, using dogs as his unfortunate test subjects, all of which died after being given his laurel water concoction. This is likely the article from the Transactions that was referred to in John Donnellan’s trial.
+<br><br>
 [Follow this link for a reprint of the original article](https://royalsocietypublishing.org/doi/epdf/10.1098/rstl.1731.0017)
 
 <param ve-image 
@@ -252,8 +252,8 @@ This abridgment volume of the Philosophical Transactions has a reprint of an art
 
 ## Mythology of plants
 
-The lore and mythology of plants has a long and interesting history, from Demeter, the Greek goddess of harvest and fertile soil, to the use of mandrake roots in magic rituals. There are many legendary plants, such as the Irrwurz (or herbe d’égarement), the lotus tree, the coco de mer, fern flowers, and peaches of immortality amongst many others.\
-Trees in particular have magical, or mythical properties for many people. The yew tree can regenerate (or resurrect) itself, and as such is often found in churchyards and cemeteries. According to the Horniman Museum, during plague times, people believed it could purify victims when placed on their graves. Sage, or salvia (‘to heal’), was treated as a holy herb by the Romans, and wild sage (pechuel-loeschea leubnitziae) is used as a ‘folk remedy’ to treat various ailments, and ward off mosquitoes in Southern African countries.\
+The lore and mythology of plants has a long and interesting history, from Demeter, the Greek goddess of harvest and fertile soil, to the use of mandrake roots in magic rituals. There are many legendary plants, such as the Irrwurz (or herbe d’égarement), the lotus tree, the coco de mer, fern flowers, and peaches of immortality amongst many others.<br>
+Trees in particular have magical, or mythical properties for many people. The yew tree can regenerate (or resurrect) itself, and as such is often found in churchyards and cemeteries. According to the Horniman Museum, during plague times, people believed it could purify victims when placed on their graves. Sage, or salvia (‘to heal’), was treated as a holy herb by the Romans, and wild sage (pechuel-loeschea leubnitziae) is used as a ‘folk remedy’ to treat various ailments, and ward off mosquitoes in Southern African countries.<br>
 Plants also have complicated symbologies attached to them, which vary by region, as determined by an area’s unique characteristics. According to Kew Gardens, many of the UK’s wildflowers have mythological associations, such as the association between poppies and Demeter; the ability of St. John’s wort, the sun herb, to ward off the evil of the dark; and the use of wild marjoram in wedding crowns, as it was a favourite herb of Aphrodite, the Greek goddess of love, beauty, and fertility.  
 <param ve-image 
        label="Commentarii secundo aucti, in libros sex Pedacii Dioscoridis Anazarbei de medica materia by Pietro Andrea Mattioli, 1560 via https://bibdigital.rjb.csic.es/idurl/1/13527" 
@@ -263,8 +263,8 @@ Plants also have complicated symbologies attached to them, which vary by region,
        
 ## Giambattista della Porta, Phytognomonica, 1588
 
-Della Porta was an Italian polymath who believed that similar visual characteristics linked plants and animals to humans, and that these similarities provided potential healing powers. This curious book outlines this theory – that certain plants had parallels with human and animal shapes, and humours, because they were visually similar. In this illustration he shows plants which resemble eyes, and thus could be used to heal eye ailments. They are, from right to left: asteris, aconiti and aizoi (Aster amellus, Aconitum, and Sempervivum, respectively). Aconitum is also a poison, more commonly known as monkshood or wolfsbane (see: R v Singh [2010] EWCA Crim 2951).\
-\
+Della Porta was an Italian polymath who believed that similar visual characteristics linked plants and animals to humans, and that these similarities provided potential healing powers. This curious book outlines this theory – that certain plants had parallels with human and animal shapes, and humours, because they were visually similar. In this illustration he shows plants which resemble eyes, and thus could be used to heal eye ailments. They are, from right to left: asteris, aconiti and aizoi (Aster amellus, Aconitum, and Sempervivum, respectively). Aconitum is also a poison, more commonly known as monkshood or wolfsbane (see: R v Singh [2010] EWCA Crim 2951).
+<br><br>
 Accompanying this book are specimens from the gardens at Middle Temple: Michaelmas daisy (Aster amellus) and Aeonium, which looks similar to Sempervivum. 
 
 <param ve-image 
@@ -310,8 +310,8 @@ This work by the Dutch physician, who studied under Rembert Dodoens, Conrad Gess
 
 ## Plants at Middle Temple (historic)
 
-Plants have always played an important part at the Inn, from their presence in the garden, to their use in the kitchen garden that existed here in the seventeenth-century, and the number of books about botany in the library’s collections. The Inn acquired books on botanical subjects well into the nineteenth-century. There was also a concerted effort to acquire a wide range of topographical books for the Library, many of which discussed the natural history of areas such as Boston, Cornwall, and Oxfordshire amongst others. The Library also acquired over twenty volumes of the Royal Society’s Philosophical Transactions in the eighteenth-century.\
-\
+Plants have always played an important part at the Inn, from their presence in the garden, to their use in the kitchen garden that existed here in the seventeenth-century, and the number of books about botany in the library’s collections. The Inn acquired books on botanical subjects well into the nineteenth-century. There was also a concerted effort to acquire a wide range of topographical books for the Library, many of which discussed the natural history of areas such as Boston, Cornwall, and Oxfordshire amongst others. The Library also acquired over twenty volumes of the Royal Society’s Philosophical Transactions in the eighteenth-century.
+<br>
 Although there is no evidence that John Evelyn (1620-1706), founding member of the Royal Society, had any input into the Inn’s gardens, he was a member of the Inn (admitted 1637). Evelyn was a prolific author on botanical subjects. In 1664 he published Sylva, in which he argued for the conservation of English forests and provided practical information on tree cultivation; it went through many editions, up to 1776. He also wrote Acetaria, a work on salads and vegetables, and a gardener’s almanac, Kalendarium hortense. He additionally translated Jean de la Quintinie’s work on fruit and kitchen gardens from French into English as The compleat gard’ner. 
 
 <param ve-image 
@@ -322,12 +322,12 @@ Although there is no evidence that John Evelyn (1620-1706), founding member of t
 
 ## Bills from the Archive (MT/2/TUT/54, and 64)
 
-1723-1724: gardener’s bill listing, amongst other items: halfe a hundred of tulip rootes; sweet margerum seed and flock gelleflour seed; 2 wallflowers; 18 passion rifle roots.\
-\
-1817: 4 rose trees, geraniums, 6 pots of pinks, 4 pots of peas, carnations, Canterbury bells.\
-\
-Victoria Hildreth, Assistant Archivist: “There are references to a kitchen garden in the Minutes of Parliament dated 24 November 1609 and in bills from the late 1610s, which would have grown vegetables and herbs for culinary and medicinal use at the Inn. The minutes of 1609 reference a reduction in the size of the garden as it granted permission for Francis Warnett and John Puleston, members of the Society, to build a new set of chambers in the kitchen garden and this permission may have been granted due to a wider availability of produce in local markets than in earlier centuries. An estimated location of the garden can be ascertained by looking at the location of the newly built chamber, which was on Middle Temple Lane, and by the fact that it was ‘from the corner of the chamber of Mr Overbury northward towards the brick wall dividing the kitchen garden from the Town Buildings’”.\
-\
+1723-1724: gardener’s bill listing, amongst other items: halfe a hundred of tulip rootes; sweet margerum seed and flock gelleflour seed; 2 wallflowers; 18 passion rifle roots.
+<br><br>
+1817: 4 rose trees, geraniums, 6 pots of pinks, 4 pots of peas, carnations, Canterbury bells.
+<br><br>
+Victoria Hildreth, Assistant Archivist: “There are references to a kitchen garden in the Minutes of Parliament dated 24 November 1609 and in bills from the late 1610s, which would have grown vegetables and herbs for culinary and medicinal use at the Inn. The minutes of 1609 reference a reduction in the size of the garden as it granted permission for Francis Warnett and John Puleston, members of the Society, to build a new set of chambers in the kitchen garden and this permission may have been granted due to a wider availability of produce in local markets than in earlier centuries. An estimated location of the garden can be ascertained by looking at the location of the newly built chamber, which was on Middle Temple Lane, and by the fact that it was ‘from the corner of the chamber of Mr Overbury northward towards the brick wall dividing the kitchen garden from the Town Buildings’”.
+<br><br>
 On display here are dried specimens from the gardens at Middle Temple: rose, sweet peas, and geraniums. 
 
 <param ve-image 
@@ -367,10 +367,10 @@ This tract discusses how to improve food supplies and decries the destruction an
        
 ## Robert Ashley
 
-The Library’s founder, Robert Ashley (1565-1641) was very interested in botany, including medical botany. In his copy of Guy de la Brosse, De la nature, vertu et utilité des plantes (1628), he wrote out this list of plants of interest – ‘bistorte’ (bistort, or pudding dock, (Bistorta officinalis), ‘chamenerion’ (fireweed, Chamaenerion angustifolium), ‘poussepieds’ (samphire), and ‘yeux de bœufs’ (Asteraceae) amongst others. Bistort is used for digestion problems, and chamenerion is known as ‘bombweed’, or ‘fireweed’. In addition to its discussion of medical botany, de la Brosse wrote about the Jardin du roi (now known as the Jardin des plantes) in Paris. The garden was used for medical training, and de la Brosse’s original intention was to build a physic garden.\
-Fireweed appears abundantly on newly burned and cleared areas, which lead to it being known as ‘bombweed’ in the UK, as it easily colonised areas that had been bombed and cleared in WWII.\
-\
-This book is in desperate need of repair. If you would like to sponsor the cost of that repair, please contact the Librarian: r.satterley@middletemple.org.uk. 
+The Library’s founder, Robert Ashley (1565-1641) was very interested in botany, including medical botany. In his copy of Guy de la Brosse, De la nature, vertu et utilité des plantes (1628), he wrote out this list of plants of interest – ‘bistorte’ (bistort, or pudding dock, (Bistorta officinalis), ‘chamenerion’ (fireweed, Chamaenerion angustifolium), ‘poussepieds’ (samphire), and ‘yeux de bœufs’ (Asteraceae) amongst others. Bistort is used for digestion problems, and chamenerion is known as ‘bombweed’, or ‘fireweed’. In addition to its discussion of medical botany, de la Brosse wrote about the Jardin du roi (now known as the Jardin des plantes) in Paris. The garden was used for medical training, and de la Brosse’s original intention was to build a physic garden.<br>
+Fireweed appears abundantly on newly burned and cleared areas, which lead to it being known as ‘bombweed’ in the UK, as it easily colonised areas that had been bombed and cleared in WWII.
+<br><br>
+This book is in desperate need of repair. If you would like to sponsor the cost of that repair, please contact the Librarian: r.satterley@middletemple.org.uk.<br>
 On display here are specimens sourced by the gardener, Kate Jenrick: bistort, fireweed, and Asteraceae (daisy). 
 
 <param ve-image 
@@ -386,16 +386,16 @@ On display here are specimens sourced by the gardener, Kate Jenrick: bistort, fi
        
 ## Plants and wildlife at the Inn (present day)
 
-Kate Jenrick, Gardener\
-The gardens at Middle Temple have provided the Inn with a variety of purposes through the years – from providing food with a kitchen garden, growing herbs, allotments during World War II, and a floral display for enjoyment today. They have also provided a haven for wildlife in the midst of a metropolis, and their value is reflected in the City of London’s awarding it a Grade Two listing of Borough Importance for Nature Conservation.\
-\
-The Black redstart is a small bird (something between a robin and a small blackbird) with a special link to the Temple. Before the 1940s it was a rare passing migrant in this country. In 1944 one of just three breeding pairs was recorded (and photographed) at Temple. The Black redstart is still rare throughout the country. To help ensure its survival it is a listed target species in the City of London Biodiversity plan.\
-\
+Kate Jenrick, Gardener<br>
+The gardens at Middle Temple have provided the Inn with a variety of purposes through the years – from providing food with a kitchen garden, growing herbs, allotments during World War II, and a floral display for enjoyment today. They have also provided a haven for wildlife in the midst of a metropolis, and their value is reflected in the City of London’s awarding it a Grade Two listing of Borough Importance for Nature Conservation.
+<br><br>
+The Black redstart is a small bird (something between a robin and a small blackbird) with a special link to the Temple. Before the 1940s it was a rare passing migrant in this country. In 1944 one of just three breeding pairs was recorded (and photographed) at Temple. The Black redstart is still rare throughout the country. To help ensure its survival it is a listed target species in the City of London Biodiversity plan.
+<br><br>
 There are good populations of robins, wrens, blackbirds and various blue and great tits. From time to time a kestrel can be seen poised on a hall ledge watching for prey (usually field mice). Peregrine falcons can also be seen hunting. They are known to have roosts in nearby tall buildings such as the Tate Modern. 
-The images of seventeenth and eighteenth-century frost fairs on the Thames facing the Temple are hard to imagine today – roses are often still budding and flowering in early December. It is only January and February when they are reliably dormant. Leaf fall now starts earlier as the trees shed leaves in response to stress (drought and disease), but final leaf fall may well last many months as temperatures remain too high to support full senescence. Extremes in weather conditions are most stark in the spring, such as the very cool and dry conditions experienced in 2012 and 2022, and the “Beast from the East” cold wave of March 2018. It is a journey of discovery learning which plants can cope with this unpredictability.\
-\
-Warmer conditions present other problems, such as the introduction of new pests. The fuchsia gall mite (originally from Brazil) is able to survive our newly milder winters. It distorts foliage and stunts growth. This is a good example where consideration of wildlife wins over choice of a particular plant. Application of pesticide could save the fuchsia but at a cost to a host of beneficial insects.\
-\
+The images of seventeenth and eighteenth-century frost fairs on the Thames facing the Temple are hard to imagine today – roses are often still budding and flowering in early December. It is only January and February when they are reliably dormant. Leaf fall now starts earlier as the trees shed leaves in response to stress (drought and disease), but final leaf fall may well last many months as temperatures remain too high to support full senescence. Extremes in weather conditions are most stark in the spring, such as the very cool and dry conditions experienced in 2012 and 2022, and the “Beast from the East” cold wave of March 2018. It is a journey of discovery learning which plants can cope with this unpredictability.
+<br><br>
+Warmer conditions present other problems, such as the introduction of new pests. The fuchsia gall mite (originally from Brazil) is able to survive our newly milder winters. It distorts foliage and stunts growth. This is a good example where consideration of wildlife wins over choice of a particular plant. Application of pesticide could save the fuchsia but at a cost to a host of beneficial insects.
+<br><br>
 [Follow this link for a recording of a black redstart taken at Queen Elizabeth Park, Stratford.](https://markavery.info/2020/04/12/bird-song-22-black-redstart/)
 
 <param ve-image 
