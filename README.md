@@ -204,35 +204,29 @@ This reproduction frontispiece shows the interior of Dick’s Coffee-House, whic
 ## R v Donnellan
 
 In this ‘cause célèbre’, Captain John Donnellan was tried before Mr. Justice Francis Buller in Warwick in 1781 for the poisoning of his brother-in-law, Sir Theodosius Boughton. Donnellan was married to Boughton’s sister and heir Theodosia. Boughton was a known womaniser, and had been infected with syphilis (i.e., the clap, as shown here), for which he was undergoing treatment from an apothecary, who provided him with a specially made draught. His mother, Anna Boughton, unwittingly administered the poison from a phial purporting to contain this draught. As shown here in her deposition, written in her own hand, the draught smelled like bitter almonds, and she gave him some cheese to get rid of the taste and smell of it. Boughton died soon after drinking the concoction, having gone into severe convulsions. Donnellan rinsed the bottle out before anyone could examine it. A post-mortem was conducted, and the smell of bitter almonds was noted. The celebrated surgeon, John Hunter, also examined the body and stated that the smell was produced by laurel water mixed with the apothecary’s draught. Dr. Hunter did not believe that the victim had been poisoned, however.
+<br><br>
+Donnellan had a distillation still, and copies of the Philosophical Transactions out of which he had marked pages that explained how to produce laurel water. The pages explained how people in Ireland had died after drinking it. The prosecuting counsel stated in the indictment that he believed Boughton was poisoned with laurel water. Laurel water is made by distilling leaves from cherry laurel (Prunus laurocerasus) and contains hydrocyanic acid.
+<br><br>
+Despite the lack of evidence, Donnellan was found guilty of murder and executed. On the morning of his execution, he admitted to distilling laurel water, but claimed it was for washing his feet. Despite the circumstantial evidence presented at his trial, many believed him innocent of the crime. On display is a sample of cherry laurel taken from the gardens at Middle Temple.
+<br><br>
+In the following videos you can see two of the exhibition pieces. They have been animated to show a legible version of the transcription. Both belong to MS86, R v Donellan, papers that formed part of the trial materials in the 1781 case against Captain John Donellan. The first being Anna Boughton's deposition, and the second being an account of the complaints of Sir Theodosius Boughton.
 
 <param ve-image 
        label="Illustration of Captain Donnellan, reproduced courtesy of the National Library of Ireland" 
        description="illustration" 
        url="https://user-images.githubusercontent.com/110464039/193550479-58baec98-cc96-435c-82c3-5b4cf6bfee74.png">
-     
+
 <param ve-image 
        label="An image of Lawford Hall from 'Picturesque views on the upper, or Warwickshire Avon: from its sources at Naseby to its junction with the Severn at Tewkesbury; with observations on the public buildings, and other works of art in its vicinity' by Samuel Ireland, 1795" 
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/189936713-ed5ea275-4bb7-4afc-a237-9e8826ba71a5.jpg">
-
-
-Donnellan had a distillation still, and copies of the Philosophical Transactions out of which he had marked pages that explained how to produce laurel water. The pages explained how people in Ireland had died after drinking it. The prosecuting counsel stated in the indictment that he believed Boughton was poisoned with laurel water. Laurel water is made by distilling leaves from cherry laurel (Prunus laurocerasus) and contains hydrocyanic acid.
-<br><br>
-Despite the lack of evidence, Donnellan was found guilty of murder and executed. On the morning of his execution, he admitted to distilling laurel water, but claimed it was for washing his feet. Despite the circumstantial evidence presented at his trial, many believed him innocent of the crime. On display is a sample of cherry laurel taken from the gardens at Middle Temple.
 
 <param ve-image 
        label="Cherry laurel" 
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/193051434-9306d98a-8c40-41e0-a99b-d6b0e62fe04c.jpg">
 
-In the following videos you can see two of the exhibition pieces. They have been animated to show a legible version of the transcription. Both belong to MS86, R v Donellan, papers that formed part of the trial materials in the 1781 case against Captain John Donellan.
-<br><br>
-The first being Anna Boughton's deposition.
-<br><br>
 <param ve-video id="CuzsNbkb4JA">
-
-The second being an account of the complaints of Sir Theodosius Boughton.
-
 <param ve-video id="oflsOr5SpmY">
 
 
