@@ -162,10 +162,10 @@ Accompanying this book are dried specimens from the gardens at Middle Temple: ol
 
 ## The trial of Robert Sawle Donnall, surgeon and apothecary, 1817 
 
-Donnall was charged with murdering his mother-in-law, Elizabeth Downing. Donnall was accused of serving her a cup of cocoa laced with arsenic. Robert Casberd (1772-1842), a Bencher of the Inn, was one of the prosecuting counsel, and claimed that Donnall had twice poisoned Elizabeth Downing – once on the 19th of October 1816, and the second the day before her death, the 3rd of November, 1816. An autopsy was performed by a Dr. Edwards and Mr. John Street, with Donnall present. Edwards and Street had poured the contents of her stomach into an earthen jug which Donnall, without their knowledge, emptied into a “chamber utensil”, that is, a chamber pot in which there was already some water, thus diluting the contents. Edwards testified that the stomach inflammation he observed in her stomach “could not be produced by any natural cause”. Edwards tested the stomach contents, which showed the presence of arsenic. However, Donnall was acquitted; a maid, Mary Coombe, testified that she drank the remaining cocoa left in Mrs. Downing’s cup.\
-\
-Shown here is a diagram of the Donnall’s parlour (‘plan of the tea-room’), and the route Donnall took to serve Mrs. Downing her cocoa; the plan was exhibited in court. Drinking cocoa is of course made from cocoa beans. According to English Heritage, it was made by mixing cocoa powder, water or milk, sugar, and egg yolks.\
-\
+Donnall was charged with murdering his mother-in-law, Elizabeth Downing. Donnall was accused of serving her a cup of cocoa laced with arsenic. Robert Casberd (1772-1842), a Bencher of the Inn, was one of the prosecuting counsel, and claimed that Donnall had twice poisoned Elizabeth Downing – once on the 19th of October 1816, and the second the day before her death, the 3rd of November, 1816. An autopsy was performed by a Dr. Edwards and Mr. John Street, with Donnall present. Edwards and Street had poured the contents of her stomach into an earthen jug which Donnall, without their knowledge, emptied into a “chamber utensil”, that is, a chamber pot in which there was already some water, thus diluting the contents. Edwards testified that the stomach inflammation he observed in her stomach “could not be produced by any natural cause”. Edwards tested the stomach contents, which showed the presence of arsenic. However, Donnall was acquitted; a maid, Mary Coombe, testified that she drank the remaining cocoa left in Mrs. Downing’s cup.
+<br><br>
+Shown here is a diagram of the Donnall’s parlour (‘plan of the tea-room’), and the route Donnall took to serve Mrs. Downing her cocoa; the plan was exhibited in court. Drinking cocoa is of course made from cocoa beans. According to English Heritage, it was made by mixing cocoa powder, water or milk, sugar, and egg yolks.
+<br><br>
 [Follow this link for a digital version of the trial account.](https://archive.org/details/b20443559/page/n3/mode/2up) 
 
 <param ve-image 
@@ -175,10 +175,10 @@ Shown here is a diagram of the Donnall’s parlour (‘plan of the tea-room’),
 
 ## MS146, Records of The Society of the Bears
 
-A set of five manuscript records was deposited in the Library on 9 June, 1826. The ‘Society’ was in fact a group of men, mostly barristers from the four Inns who met regularly, starting in 1738, until the ‘Society’ was wound up in 1823. They met to place bets and make wagers on a variety of topics, and held their meetings in taverns and coffee houses, such as Serle’s, located at Lincoln’s Inn, and Will’s located at 1 Bow Street. Will’s was known as the ‘Wits’ Coffee House’, but by the time the Society met there, it had fallen out of fashion. Both Robert Matthew Casberd, the prosecuting counsel, and Charles Abbot, the trial judge in the Donnall case, were members of the Society. Bets were placed, and dues paid, with bottles of port and wine.\
-\
-Coffee houses were popular social venues in the seventeenth and eighteenth centuries, attracting men (and sometimes women) from all levels of society. Although known to earlier travellers, coffee as a drink was introduced to England from Turkey in 1652. Coffee is produced by brewing the dried, roasted seeds of the berries of Coffea plants. Coffee was believed to cure headaches, gout, and some skin conditions. Sir Nicholas Lawes introduced coffee to Jamaica in 1728, but its cultivation and profitability relied on the exploitation of slave labour. At the time of his death in 1731, he owned 478 slaves. Lawes’ son Temple is named in one of the draft deeds listed in the Library’s eighteenth-century manuscript of conveyancing precedents, MS37.\
-\
+A set of five manuscript records was deposited in the Library on 9 June, 1826. The ‘Society’ was in fact a group of men, mostly barristers from the four Inns who met regularly, starting in 1738, until the ‘Society’ was wound up in 1823. They met to place bets and make wagers on a variety of topics, and held their meetings in taverns and coffee houses, such as Serle’s, located at Lincoln’s Inn, and Will’s located at 1 Bow Street. Will’s was known as the ‘Wits’ Coffee House’, but by the time the Society met there, it had fallen out of fashion. Both Robert Matthew Casberd, the prosecuting counsel, and Charles Abbot, the trial judge in the Donnall case, were members of the Society. Bets were placed, and dues paid, with bottles of port and wine.
+<br><br>
+Coffee houses were popular social venues in the seventeenth and eighteenth centuries, attracting men (and sometimes women) from all levels of society. Although known to earlier travellers, coffee as a drink was introduced to England from Turkey in 1652. Coffee is produced by brewing the dried, roasted seeds of the berries of Coffea plants. Coffee was believed to cure headaches, gout, and some skin conditions. Sir Nicholas Lawes introduced coffee to Jamaica in 1728, but its cultivation and profitability relied on the exploitation of slave labour. At the time of his death in 1731, he owned 478 slaves. Lawes’ son Temple is named in one of the draft deeds listed in the Library’s eighteenth-century manuscript of conveyancing precedents, MS37.
+<br><br>
 [Follow this link to access a transcription of all five volumes of the Records, and a list of the Society’s members.](https://www.middletemple.org.uk/library/library-collections/rare-books-manuscripts/manuscripts-collection/society-bears)
 
 <param ve-image 
@@ -216,8 +216,8 @@ In this ‘cause célèbre’, Captain John Donnellan was tried before Mr. Justi
        url="https://user-images.githubusercontent.com/110464039/189936713-ed5ea275-4bb7-4afc-a237-9e8826ba71a5.jpg">
 
 
-Donnellan had a distillation still, and copies of the Philosophical Transactions out of which he had marked pages that explained how to produce laurel water. The pages explained how people in Ireland had died after drinking it. The prosecuting counsel stated in the indictment that he believed Boughton was poisoned with laurel water. Laurel water is made by distilling leaves from cherry laurel (Prunus laurocerasus) and contains hydrocyanic acid.\
-\
+Donnellan had a distillation still, and copies of the Philosophical Transactions out of which he had marked pages that explained how to produce laurel water. The pages explained how people in Ireland had died after drinking it. The prosecuting counsel stated in the indictment that he believed Boughton was poisoned with laurel water. Laurel water is made by distilling leaves from cherry laurel (Prunus laurocerasus) and contains hydrocyanic acid.
+<br><br>
 Despite the lack of evidence, Donnellan was found guilty of murder and executed. On the morning of his execution, he admitted to distilling laurel water, but claimed it was for washing his feet. Despite the circumstantial evidence presented at his trial, many believed him innocent of the crime. On display is a sample of cherry laurel taken from the gardens at Middle Temple.
 
 <param ve-image 
@@ -225,10 +225,10 @@ Despite the lack of evidence, Donnellan was found guilty of murder and executed.
        description="photograph" 
        url="https://user-images.githubusercontent.com/110464039/193051434-9306d98a-8c40-41e0-a99b-d6b0e62fe04c.jpg">
 
-In the following videos you can see two of the exhibition pieces. They have been animated to show a legible version of the transcription. Both belong to MS86, R v Donellan, papers that formed part of the trial materials in the 1781 case against Captain John Donellan.\
-\
+In the following videos you can see two of the exhibition pieces. They have been animated to show a legible version of the transcription. Both belong to MS86, R v Donellan, papers that formed part of the trial materials in the 1781 case against Captain John Donellan.
+<br><br>
 The first being Anna Boughton's deposition.
-
+<br><br>
 <param ve-video id="CuzsNbkb4JA">
 
 The second being an account of the complaints of Sir Theodosius Boughton.
