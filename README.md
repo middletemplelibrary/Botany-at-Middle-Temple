@@ -230,12 +230,12 @@ In the following videos you can see two of the exhibition pieces. They have been
 <br><br>
 The first being Anna Boughton's deposition.
 
-<param ve-video id="CuzsNbkb4JA">
+<param ve-video id="ch1mZAaJmbM">
 
 ## 
 The second being an account of the complaints of Sir Theodosius Boughton.
 
-<param ve-video id="oflsOr5SpmY">
+<param ve-video id="qw-nCpbUohU">
 
 
 ## Philosophical Transactions 
